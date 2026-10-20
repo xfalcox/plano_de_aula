@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Confirmação local com JavaScript</title>
+</head>
+<body>
+  <main>
+    <h1>Festa de formatura</h1>
+    <p>Música e fotos com a turma.</p>
+<button id="participar">Participar</button>
+<p id="status" aria-live="polite">
+  Sua presença ainda não foi confirmada.
+</p>
+    <p>Esta simulação não envia nem salva uma inscrição.</p>
+  </main>
+  <script>
+const botao = document.querySelector("#participar");
+const status = document.querySelector("#status");
+
+botao.addEventListener("click", function () {
+  status.textContent = "Presença confirmada!";
+  botao.textContent = "Confirmado";
+  botao.disabled = true;
+});
+  </script>
+</body>
+</html>

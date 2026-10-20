@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2026-10-14T14:16:31.973Z",
+  "results": [
+    {
+      "label": "apresentacao_css.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "apresentacao_html.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "apresentacao_javascript.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "atividade_css.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "atividade_html.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "atividade_javascript.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "cartoes_css.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "cartoes_html.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "cartoes_javascript.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "guia_professor.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "plano_css.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "plano_html.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "plano_javascript.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "planos_banca_3_vias.html: sem texto cortado ou sobreposição ao rodapé []",
+      "ok": true
+    },
+    {
+      "label": "HTML: destino inicial",
+      "ok": true
+    },
+    {
+      "label": "HTML: troca de destino e navegação offline {\"hash\":\"#local\",\"label\":\"Ver local\",\"href\":\"#local\"}",
+      "ok": true
+    },
+    {
+      "label": "CSS: controles alteram as regiões corretas",
+      "ok": true
+    },
+    {
+      "label": "CSS: alternância de estilo",
+      "ok": true
+    },
+    {
+      "label": "JS: estado inicial",
+      "ok": true
+    },
+    {
+      "label": "JS: confirmação por teclado e bloqueio de repetição {\"keyState\":{\"disabled\":true,\"button\":\"Confirmado\",\"message\":\"Presença confirmada!\",\"active\":\"participar\"},\"errors\":[]}",
+      "ok": true
+    },
+    {
+      "label": "JS: reinício",
+      "ok": true
+    },
+    {
+      "label": "JS: confirmação por clique",
+      "ok": true
+    },
+    {
+      "label": "Exemplo HTML completo: estrutura e destino",
+      "ok": true
+    },
+    {
+      "label": "Exemplo CSS completo: mesma regra em dois elementos",
+      "ok": true
+    },
+    {
+      "label": "Exemplo JS completo: confirmação local",
+      "ok": true
+    },
+    {
+      "label": "Demos sem exceções de JavaScript: ",
+      "ok": true
+    },
+    {
+      "label": "Índice: todos os destinos locais existem",
+      "ok": true
+    }
+  ]
+}

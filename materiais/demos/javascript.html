@@ -1,0 +1,20 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>JavaScript · clique e confirmação</title><style>body{font-family:Arial,sans-serif;line-height:1.5;max-width:950px;margin:32px auto;padding:0 20px;color:#17233c}h1{line-height:1.2}button,select,input{font:inherit}button{padding:10px 16px;background:#1745a0;color:white;border:2px solid #1745a0;border-radius:6px;cursor:pointer}button:disabled{background:#d9e2f0;color:#17233c;cursor:default}a{color:#1745a0}pre{white-space:pre-wrap;background:#eef2f9;padding:16px;overflow-wrap:anywhere}label{display:block;margin:12px 0}.notice{background:#fff1ba;padding:14px;border-radius:8px}.cols{display:grid;grid-template-columns:1fr 1fr;gap:22px}@media(max-width:650px){.cols{grid-template-columns:1fr}}*:focus-visible{outline:3px solid #963400;outline-offset:4px}</style></head><body><a href="../INICIO.html">← Voltar ao kit</a><h1>JavaScript · clique e confirmação</h1><p class="notice">Demonstração para ensaio e aula com infraestrutura. Funciona sem internet. Na prova, use os slides impressos.</p><p>Preveja o estado depois do clique. Você também pode focar o botão com Tab e ativá-lo com Enter ou Espaço.</p><div class="cols"><div><h2>Festa de formatura</h2><button id="participar">Participar</button>
+<p id="status" aria-live="polite">
+  Sua presença ainda não foi confirmada.
+</p><p><button id="reiniciar" type="button">Reiniciar demonstração</button></p><p>A confirmação é local: nenhum dado é enviado ou salvo.</p></div><div><pre><code>const botao = document.querySelector(&quot;#participar&quot;);
+const status = document.querySelector(&quot;#status&quot;);
+
+botao.addEventListener(&quot;click&quot;, function () {
+  status.textContent = &quot;Presença confirmada!&quot;;
+  botao.textContent = &quot;Confirmado&quot;;
+  botao.disabled = true;
+});</code></pre></div></div><h2>Trilha do evento</h2><p id="trilha" aria-live="polite">1. Elementos encontrados → 2. Esperando click.</p><script>const botao = document.querySelector("#participar");
+const status = document.querySelector("#status");
+
+botao.addEventListener("click", function () {
+  status.textContent = "Presença confirmada!";
+  botao.textContent = "Confirmado";
+  botao.disabled = true;
+});
+botao.addEventListener('click',function(){document.querySelector('#trilha').textContent='1. Elementos encontrados → 2. click recebido → 3. Texto atualizado e botão desabilitado.';});
+document.querySelector('#reiniciar').addEventListener('click',function(){status.textContent='Sua presença ainda não foi confirmada.';botao.textContent='Participar';botao.disabled=false;document.querySelector('#trilha').textContent='1. Elementos encontrados → 2. Esperando click.';});</script></body></html>

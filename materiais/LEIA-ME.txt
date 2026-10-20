@@ -1,0 +1,33 @@
+KIT DE PREPARAÇÃO — PROGRAMAÇÃO WEB I
+Concurso 012/01/2026 — Etec Professor Camargo Aranha
+
+Abra INICIO.html para acessar todos os materiais.
+
+O kit contém três aulas independentes de 19 minutos, com um minuto de
+margem até o limite de 20 minutos: HTML, CSS e JavaScript.
+Os PDFs estão na pasta pdf. Os HTML são as versões editáveis.
+As demonstrações da pasta demos funcionam sem internet para ensaio.
+
+Antes de imprimir, preencha seu nome nos planos e revise o conteúdo,
+os exemplos e a fala para que representem sua própria preparação.
+Use os PDFs de apresentação como apoio didático impresso na prova.
+O guia do professor e os gabaritos são materiais de preparação.
+Equipamentos pessoais, internet e relógios são vedados pelo edital.
+Projeção institucional depende de disponibilidade e autorização.
+
+IMPRESSÃO ESSENCIAL
+1. planos_banca_3_vias.pdf: imprimir uma vez, frente simples.
+   Contém nove páginas: três vias de cada um dos três planos.
+2. apresentações: imprimir as oito páginas de cada tema, frente simples.
+   Organizar um conjunto de slides impressos por tema.
+3. Cartões de cada tema: opcionais; imprimir e recortar antes da prova.
+4. Documento oficial original com foto e cópias dos títulos aplicáveis.
+
+Para ensaio, consulte guia_professor.pdf e abra as demos no navegador.
+Para uso com uma turma real, imprima a atividade do tema para cada aluno
+ou dupla. Na banca, apresente a atividade visualmente, sem exigir resposta.
+
+Os arquivos PDFs podem ser regenerados com:
+  python ferramentas/gerar_materiais.py
+  python ferramentas/exportar_pdf.py
+Requisitos: Python 3 e Chromium, sem bibliotecas externas.

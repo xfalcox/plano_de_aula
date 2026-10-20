@@ -1,0 +1,14 @@
+{
+  "temas": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "planos_paginas": 1,
+  "vias_banca": 9,
+  "slides_por_tema": 8,
+  "duracao_minutos": 19,
+  "margem_minutos": 1,
+  "guia_paginas": 13,
+  "idade_alunos": 15
+}

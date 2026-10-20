@@ -1,0 +1,2568 @@
+Publicado no D.O.E. de: 16/03/2026
+
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA
+ESCOLA TÉCNICA ESTADUAL PROFESSOR CAMARGO ARANHA – SÃO
+PAULO
+
+CONCURSO PÚBLICO PARA PROFESSOR DE ENSINO MÉDIO E TÉCNICO
+EDITAL Nº 012/01/2026 – PROCESSO Nº 136.00017824/2026–49
+AUTORIZAÇÃO GOVERNAMENTAL:
+DESPACHO PUBLICADO NO DOE DE 17/11/2025, PROCESSO SISAUT
+2025/00065
+PORTARIA DO SUPERINTENDENTE DE ESCOLA TÉCNICA Nº 2, DE
+06/03/2026
+
+O Superintendente da ESCOLA TÉCNICA ESTADUAL PROFESSOR CAMARGO
+ARANHA, da cidade de SÃO PAULO, com fundamento na alínea “a” do inciso II do
+artigo 2º da Portaria CEETEPS–GDS nº 914, de 14, publicada no Diário Oficial do
+Estado (DOE) de 15/01/2015, republicada no DOE de 28/01/2015, e em atendimento ao
+Decreto nº 60.449, de 15/05/2014, publicado no DOE de 16/05/2014, DESIGNA para
+compor, sem prejuízo de suas funções, sob a presidência do primeiro, a Comissão
+Especial de Concurso Público, responsável pela realização do concurso no Componente
+Curricular 5046 – Programação Web I, da Habilitação DESENVOLVIMENTO DE
+SISTEMAS INTEGRADO AO ENSINO MÉDIO (MTEC – PROGRAMA NOVOTEC
+INTEGRADO):
+
+Titulares:
+WILSON RIBEIRO DOS SANTOS, RG.: 60.xxx.xx9–5,Chefe de Serviço
+CAROLINA VIEGAS SEMAN CUFLAT VILAR, RG.: 34.xxx.xx5–0,Professor de
+Ensino Médio e Técnico
+GEORGE STETINIO DE OLIVEIRA, RG.: 13.xxx.xx6–5, Professor de Ensino Médio
+e Técnico
+Suplentes:
+RICARDO FARIA PALHARES, RG.: 28.xxx.xx5–6, Professor de Ensino Médio e
+Técnico
+FABIO LEVI QUINTINO, RG.: 30.xxx.xx0–5, Professor de Ensino Médio e Técnico
+MARIA DA GLORIA PIRES CLARO PEREIRA, RG.: 87.xxx.xx3–9, Agente Técnico
+e Administrativo
+*
+
+*
+GOVERNO DO ESTADO DE SÃO PAULO
+SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA
+ESCOLA TÉCNICA ESTADUAL PROFESSOR CAMARGO ARANHA – SÃO
+PAULO
+
+CONCURSO PÚBLICO PARA PROFESSOR DE ENSINO MÉDIO E TÉCNICO
+EDITAL Nº 012/01/2026 – PROCESSO Nº 136.00017824/2026–49
+
+EDITAL DE ABERTURA DE INSCRIÇÕES
+
+O CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA –
+CEETEPS, à vista das disposições do Decreto nº 60.449, de 15 de maio de 2014,
+alterado pelo Decreto nº 63.651 de 16 de agosto de 2018, por meio da Comissão
+
+Especial de Concurso Público da ESCOLA TÉCNICA ESTADUAL PROFESSOR
+CAMARGO ARANHA, da cidade de SÃO PAULO, instituída mediante Portaria do
+Superintendente da Unidade de Ensino nº 2, nos termos da Portaria Ceeteps–GDS nº
+914, de 14 de janeiro de 2015, publicada no Diário Oficial do Estado de São Paulo
+(DOE) de 15/01/2015, republicada no DOE de 28/01/2015, em face da autorização
+governamental específica constante do processo SISAUT 2025/00065, TORNA
+PÚBLICA A ABERTURA de inscrições e a realização de concurso público para
+preencher, mediante admissão, o(s) emprego(s) público(s) permanente(s)
+de PROFESSOR DE ENSINO MÉDIO E TÉCNICO, pertencente ao Quadro de
+Pessoal do Ceeteps, mediante as condições estabelecidas nas Instruções Especiais,
+contidas no presente edital.
+
+INSTRUÇÕES ESPECIAIS
+
+O concurso púbico será aberto para o Componente Curricular, Habilitação e quantidade
+de emprego(s) a seguir:
+
+COMPONENTE CURRICULAR (HABILITAÇÃO): 5046 – Programação Web
+I(DESENVOLVIMENTO DE SISTEMAS INTEGRADO AO ENSINO MÉDIO
+(MTEC – PROGRAMA NOVOTEC INTEGRADO))
+QUANTIDADE DE EMPREGO PÚBLICO PERMANENTE PREVISTA: 1
+TOTAL DE AULAS LIVRES: 3,0
+PERÍODO DAS AULAS: MATUTINO
+
+I – DAS DISPOSIÇÕES PRELIMINARES
+1. A realização do presente concurso público foi autorizada mediante Despacho do
+Senhor Governador do Estado de 14 de novembro de 2025, publicado no Diário Oficial
+do Estado de 17 de novembro de 2025, de acordo com o que estabelece o artigo 3º do
+Decreto nº 60.449, de 15 de maio de 2014, alterado pelo Decreto nº 63.651, de 16 de
+agosto de 2018.
+2. A admissão por este concurso público será regida pela Consolidação das Leis do
+Trabalho – CLT e legislação complementar, obedecido o disposto no artigo 4º da Lei
+Complementar nº 1.240, de 22 de abril de 2014, e no parágrafo único do artigo 445 da
+CLT.
+3. As publicações referentes ao presente certame poderão ser acompanhadas
+por meio do Portal do Diário Oficial do Estado – DOE (www.doe.sp.gov.br), no Portal
+
+de Concursos Públicos do Estado de São Paulo (www.concursopublico.sp.gov.br), no
+site do Centro Paula Souza (www.cps.sp.gov.br) na página deste concurso público, nas
+dependências e no site da unidade de ensino (quando ela possuir tal dispositivo), não
+podendo ser alegada qualquer espécie de desconhecimento.
+4. Devido ao número de vagas oferecido no presente certame, não haverá aplicação da
+Lei Complementar nº 683, de 18 de setembro de 1992 (que dispõe sobre reserva, nos
+concursos públicos, de percentual de cargos e empregos para portadores de deficiência),
+no que diz respeito a reserva de vaga e lista de classificação especial.
+5. As datas previstas para a realização do concurso público constarão do Cronograma
+de Atividades (ANEXO I deste edital).
+5.1. As datas do cronograma constituem–se de períodos prováveis para a realização das
+fases do certame, e poderão ser alteradas a qualquer momento, mediante nova
+publicação no DOE.
+6. As atribuições a serem exercidas pelo candidato admitido são as definidas no artigo
+104 do Regimento Comum das Escolas Técnicas Estaduais do Ceeteps, aprovado pela
+Deliberação Ceeteps nº 87, de 08 de dezembro de 2022 (ANEXO II deste edital).
+7. Objetivando garantir os princípios básicos que regem a Administração Pública, dentre
+eles o de moralidade e impessoalidade, poderá a responsabilidade da realização
+do concurso público ser atribuída ao Superintendente de outra unidade de ensino.
+8. O local das aulas do Componente Curricular, objeto do presente edital, será na
+unidade de ensino sede do certame ou na Classe Descentralizada a ela vinculada.
+8.1. Sendo Classe Descentralizada, o local das aulas será aquele identificado na parte do
+cabeçalho deste edital.
+
+II – DOS VENCIMENTOS E COMPOSIÇÃO DA CARGA HORÁRIA
+1. O valor da hora–aula prestada é de R$ 22,47 (vinte e dois reais e quarenta e
+sete centavos), correspondente ao PADRÃO I–A da Escala Salarial – Professor de
+Ensino Médio e Técnico, a que se refere a Lei Complementar nº 1.425, de 2 de junho de
+2025.
+1.1. O valor total da remuneração por aula prestada será composto pela hora–aula,
+acrescida de 30% (trinta por cento) de hora–atividade, referente ao número de aulas
+efetivamente ministradas.
+1.2. Para efeito de cálculo da retribuição mensal correspondente às horas prestadas, o
+mês será considerado como tendo 4,5 (quatro e meio) semanas, acrescido de 1/6 (um
+sexto) a título de descanso semanal remunerado (DSR).
+
+2. A carga horária mensal estará sujeita a variação de acordo com as normas internas
+do Ceeteps que disciplinam a atribuição de aulas, não podendo ultrapassar o limite de
+200 (duzentas) horas mensais.
+3. A carga horária semanal será constituída de, no mínimo, 2 (duas) horas–aula, de
+acordo com o disposto no artigo 22 da Lei Complementar nº 1.044, de 13 de maio
+de 2008, com a redação estabelecida pelo inciso VII do artigo 1º da Lei Complementar
+nº 1.240/2014.
+4. O horário de trabalho será definido pela unidade de ensino no momento da
+convocação do candidato para admissão.
+
+III – DOS REQUISITOS
+1. Os requisitos de qualificação dos profissionais para os Componentes Curriculares são
+estabelecidos por meio do Catálogo de Requisitos de Titulação para a Docência
+(CRT), instituído pela Deliberação Ceeteps nº 6, de 16 de julho de 2008 (e suas
+alterações), e regulamentado pela Coordenadoria Geral de Ensino Médio e Técnico
+(CGETEC) por meio da Instrução Cetec nº 1, de 19 de fevereiro de 2013.
+2. Os requisitos do emprego público permanente de Professor de Ensino Médio e
+Técnico, bem como os requisitos de titulação para o Componente Curricular
+previsto neste certame constarão do ANEXO III do presente edital.
+3. Por ocasião da admissão, o candidato deverá comprovar documentalmente possuir os
+requisitos do emprego e de titulação.
+3.1. Será desclassificado o candidato que não atender aos requisitos dispostos no
+referido anexo.
+
+IV – DAS CONDIÇÕES
+1. Para participação no presente certame, o candidato assume cumprir as condições
+abaixo discriminadas, quando da admissão:
+a) Ser brasileiro nato, naturalizado ou, em caso de nacionalidade portuguesa, estar
+amparado pelo Estatuto de Igualdade entre brasileiros e portugueses, com
+reconhecimento de gozo dos direitos políticos, nos termos do artigo 12, § 1º, da
+Constituição Federal;
+b) Se estrangeiro, possuir o Registro Nacional Migratório – RNM (antigo Registro
+Nacional de Estrangeiro – RNE);
+c) Ter idade mínima de 18 (dezoito) anos completos;
+
+d) Possuir os pré–requisitos e a formação necessária para exercer o emprego, conforme
+mencionado no ANEXO III deste edital;
+e) Estar quite com a Justiça Eleitoral;
+f) Estar quite com as obrigações do Serviço Militar;
+g) Ter aptidão física e mental para o exercício das obrigações do emprego;
+h) Não ter sido demitido, ou demitido a bem do serviço público, no período de 5 (cinco)
+e 10 (dez) anos, respectivamente, conforme disposto no parágrafo único do artigo 307
+da Lei nº 10.261, de 28 de outubro de 1968 (Estatuto dos Funcionários Públicos Civis
+do Estado);
+i) Não registrar condenação por órgão colegiado ou definitiva; e não registrar relação de
+incompatibilidade entre a natureza do crime em questão e as atribuições do cargo
+concretamente pretendido a ser demonstrada de forma motivada por decisão da
+autoridade competente.
+2. A apresentação de todos os documentos comprobatórios das condições exigidas no
+item anterior será feita na ocasião da admissão.
+3. A não apresentação dos documentos ou a não comprovação da respectiva
+autenticidade implicará na eliminação do candidato.
+
+V – DAS INSCRIÇÕES
+1. A inscrição deverá ser efetuada no período
+de 26/03/2026 até às 23h59 de 09/04/2026, exclusivamente pela internet.
+2. A critério do Superintendente da unidade de ensino, as inscrições poderão ser
+reabertas, por igual período ao da abertura.
+2.1. A reabertura das inscrições será divulgada na forma do
+item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES, não podendo o
+candidato alegar desconhecimento.
+3. Para se inscrever, o candidato deverá:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar
+em INSCREVA–SE (ou clicar em ETECs > CONCURSO PÚBL. DOCENTE
+> INSCRIÇÕES ABERTAS);
+c) Na próxima tela, localizar o edital deste concurso público;
+
+d) Ler atentamente e na íntegra este edital, conhecer as exigências nele contidas e estar
+de acordo com elas;
+e) Preencher total e corretamente a ficha de inscrição;
+e.1) Selecionar se é Licenciado ou Graduado, para fins de classificação;
+e.2) O candidato poderá participar do certame na condição de aluno regularmente
+matriculado em curso superior correspondente a uma das titulações previstas como
+requisito.
+f) O candidato preto, pardo ou indígena que optar pelo sistema de pontuação
+diferenciada deverá observar as orientações do CAPÍTULO VII – DO SISTEMA DE
+PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU INDÍGENAS deste
+edital, para envio da foto ou do Registro Administrativo de Nascimento do Índio
+– RANI;
+g) Pagar a taxa de inscrição no valor de R$ 126,79 (cento e vinte e seis reais e setenta
+e nove centavos), que será recolhido à Associação de Pais e Mestres – APM da unidade
+de ensino a título de ressarcimento de despesas com material e serviço;
+g.1) O pagamento da taxa de inscrição deverá ser feito exclusivamente para:
+Banco: 1 – BANCO DO BRASIL S.A.
+Agência: 384–0
+Conta corrente: 101216–9 – Recebedor: APM ETEC PROFESSOR CAMARGO
+ARANHA
+Chave Pix: , ou via chave PIX TIPO:CNPJ 49333271000158
+g.2) O valor da inscrição poderá ser pago por somente por transferência bancária (TED
+ou DOC) ou Pix;
+g.3) Para o pagamento da taxa de inscrição, o candidato deverá recolher o valor EXATO
+(incluindo os centavos).
+g.4) Em caso de pagamento da taxa em valor inferior ao estipulado na alínea “g” do
+item 3 deste Capítulo, o candidato deverá, até o término do período destinado ao
+recebimento das inscrições, seguir o disposto no item 3.4. deste Capítulo.
+h) Após o pagamento, fazer upload do comprovante do recolhimento da taxa de
+inscrição até a data do término das inscrições, ou seja, até 09/04/2026.
+3.1. Para fazer o upload do comprovante do recolhimento da taxa de inscrição, o
+candidato deverá:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar
+em INSCREVA–SE (ou clicar em ETECs > CONCURSO PÚBL. DOCENTE
+> INSCRIÇÕES ABERTAS);
+c) Na próxima tela, localizar o edital do concurso público em que efetuou o pagamento;
+d) Na próxima tela, preencher o CPF;
+e) Fazer upload do comprovante do pagamento da taxa de inscrição.
+3.2. O comprovante do pagamento da taxa de inscrição deverá ser enviado em arquivo
+de imagem de formato amplamente utilizado (tais sejam: BMP, PNG, JPEG) ou em
+formato PDF, com tamanho máximo de até 5 MB (cinco megabytes).
+3.3. Em caso de deferimento do pedido de isenção da taxa de inscrição (nos termos
+do CAPÍTULO V.1 – DA REDUÇÃO OU ISENÇÃO DA TAXA
+DE INSCRIÇÃO), não será necessário ao candidato o upload de comprovante de
+pagamento da taxa de inscrição.
+3.4. Em caso de pagamento da taxa em valor inferior ao estipulado na alínea “g” do
+item 3 deste Capítulo, o candidato deverá, até o término do período destinado ao
+recebimento das inscrições:
+a) Efetuar o pagamento da diferença; e
+b) Fazer o envio dos dois comprovantes (em arquivo único) no formato estabelecido no
+item 3.2 e seguindo os procedimentos do item 3.1, ambos deste Capítulo.
+4. Não serão aceitos pagamentos da taxa de inscrição por outras vias que não as
+especificadas neste edital.
+5. Em hipótese alguma será devolvido o valor pago pela inscrição, salvo em caso de
+cancelamento do presente concurso.
+6. Somente será aceita uma inscrição por candidato.
+6.1. Na existência de mais de uma inscrição efetivada por um mesmo
+candidato, somente será considerada válida a primeira inscrição realizada. As demais
+serão indeferidas, não cabendo reclamações posteriores nesse sentido.
+7. As inscrições serão deferidas ou indeferidas pelo Superintendente da unidade de
+ensino.
+8. De forma a evitar ônus desnecessário, o candidato deverá efetivar sua inscrição
+somente após tomar conhecimento de todos os requisitos e condições exigidas para
+o concurso público.
+9. A inscrição implicará a completa ciência e a tácita aceitação das normas e condições
+estabelecidas neste edital e anexos que o acompanham, bem como nas demais
+
+normas legais pertinentes, sobre as quais o candidato não poderá alegar qualquer
+espécie de desconhecimento.
+10. Caberá ao candidato revisar as informações prestadas na ficha antes de finalizar
+a inscrição.
+11. O candidato deverá ler todas as instruções estipuladas neste edital antes de efetuar
+a inscrição e responsabilizar–se pelas informações prestadas na ficha de inscrição,
+podendo o Centro Estadual de Educação Tecnológica Paula Souza excluir do certame
+aquele que o preencher com dados incorretos, bem como prestar informações
+inverídicas, ainda que o fato seja constatado posteriormente.
+12. Não será aceita a inscrição realizada por qualquer outra forma ou via não
+especificada neste edital, ou que não atender rigorosamente ao estabelecido neste edital.
+13. Ao efetuar a inscrição, o candidato não se opõe ao tratamento e processamento dos
+seus dados pessoais, sensíveis ou não, fornecidos durante a inscrição e ao longo
+do concurso público, a fim de possibilitar a efetiva execução do certame com a
+aplicação dos critérios de avaliação e seleção, incluindo a divulgação de seu nome,
+número de inscrição, CPF (anonimizado parcialmente, com a divulgação dos dois
+primeiros e dois últimos dígitos) e notas, em observância aos princípios da publicidade
+e da transparência que regem a Administração Pública e nos termos da Lei nº 13.709, de
+14 de agosto de 2018, e alterações posteriores.
+13.1. Neste sentido, não caberão reclamações posteriores relativas à divulgação dos
+dados, ficando o candidato ciente de que as informações deste certame possivelmente
+poderão ser encontradas na internet, por meio de mecanismos de busca.
+14. O candidato será responsável pelas informações prestadas na ficha de inscrição, bem
+como por eventuais erros e omissões.
+15. Após a finalização da inscrição, o candidato poderá corrigir ou
+alterar SOMENTE os seguintes dados cadastrais:
+a) Nome;
+b) Nome Social;
+c) RG;
+d) Registro Nacional Migratório – RNM, se estrangeiro;
+e) CPF;
+f) E–mail.
+15.1. A correção de que trata o item anterior poderá ser solicitada pelo candidato até o
+término da validade do concurso público, desde que o candidato não tenha a inscrição
+indeferida ou sido eliminado do certame.
+
+15.2. Para solicitar a correção das informações pessoais indicadas no item 15 deste
+Capítulo, o candidato deverá:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar em:
+b.1) INSCREVA–SE, caso o certame esteja em período de inscrições;
+b.2) EM ANDAMENTO, após o término do período de inscrições.
+c) Na próxima tela, localizar o edital do concurso público em que efetuou inscrição;
+d) Fazer o download do Formulário de Correção de Informações Pessoais e preenchê–lo
+com as informações pertinentes;
+e) Juntar ao formulário a cópia de um documento de identificação oficial que contenha a
+informação correta (aquela a ser corrigida/alterada) (no caso de alteração de e–mail,
+juntar a cópia de documento oficial com foto);
+f) Encaminhar o formulário e a cópia do documento para o e–
+mail e012adm@cps.sp.gov.br. No assunto do e–mail deverá constar expressamente:
+CORREÇÃO DE INFORMAÇÕES PESSOAIS – CONCURSO
+PÚBLICO DOCENTE EDITAL Nº 012/01/2026.
+16. O candidato deverá arcar, exclusivamente, com as consequências advindas da
+incorreção do seu cadastro, nos termos deste edital, não podendo alegar qualquer
+espécie de desconhecimento.
+17. O Centro Paula Souza não se responsabilizará por solicitação de inscrição não
+recebida por motivo de ordem técnica dos computadores/dispositivos móveis, falhas de
+comunicação, congestionamento das linhas de comunicação, bem como outros fatores
+de ordem técnica que impossibilitem a transferência de dados.
+18. As informações prestadas pelo candidato são de sua inteira responsabilidade,
+podendo o Centro Paula Souza utilizá–las em qualquer época ou no amparo de seus
+direitos, não podendo ser alegada qualquer espécie de desconhecimento.
+19. O candidato que não atender aos procedimentos estabelecidos neste edital ou que
+prestar declaração falsa, inexata ou, ainda, que não satisfaça a todas as condições e
+requisitos estabelecidos neste edital, terá sua inscrição cancelada e, em consequência,
+anulado todos os atos dela decorrentes, mesmo que aprovado e que o fato seja
+constatado posteriormente, sem prejuízo das ações cabíveis.
+
+V.1 – DA REDUÇÃO OU ISENÇÃO DA TAXA DE INSCRIÇÃO
+
+1. Nos termos da Lei nº 12.782, de 20 de dezembro de 2007, o candidato poderá
+solicitar a redução de 50% (cinquenta por cento) do valor da taxa de inscrição, desde
+que atenda, CUMULATIVAMENTE, aos seguintes requisitos (itens 1.1 e 1.2):
+1.1. Seja estudante, assim considerado o que se encontrar regularmente matriculado
+em:
+a) Curso pré–vestibular; ou
+b) Curso superior, em nível de graduação ou pós–graduação.
+E
+1.2. Perceba remuneração mensal inferior a 2 (dois) salários mínimos, ou esteja
+desempregado.
+1.3. Devido aos requisitos do emprego público permanente oferecido neste edital, não
+haverá aplicação da alínea “a” do inciso I do artigo 1º da Lei nº 12.782/2007.
+2. Nos termos da Lei Estadual nº 12.147, de 12 de dezembro de 2005, o candidato
+doador de sangue poderá solicitar isenção total da taxa estipulada para inscrição.
+2.1. Para ter direito à isenção, o doador terá que comprovar a doação de sangue, que não
+poderá ser inferior a 3 (três) vezes em um período de 12 (doze) meses.
+3. Serão reservados os 3 (três) dias anteriores à abertura do período de inscrições para
+que o candidato protocole o pedido de redução ou isenção da taxa de inscrição,
+juntamente com a documentação comprobatória fundamentando o pedido.
+3.1. Os pedidos de redução ou isenção da taxa de inscrição deverão ser realizados no
+período de 23/03/2026 a 25/03/2026.
+4. Para requerer a redução ou isenção da taxa de inscrição, o candidato deverá, no
+referido período:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar
+em INSCREVA–SE;
+c) Na próxima tela, localizar o edital do concurso público em que deseja se inscrever;
+d) Fazer o download do Formulário de Solicitação de Redução ou Isenção da Taxa
+de Inscrição e preenchê–lo com as informações pertinentes;
+e) Juntar ao formulário a cópia da documentação a que se refere o item 5 do presente
+Capítulo;
+f) Encaminhar o formulário e a cópia da documentação para o e–
+mail e012adm@cps.sp.gov.br. No assunto do e–mail, deverá constar
+
+expressamente: SOLICITAÇÃO DE REDUÇÃO/ISENÇÃO DA TAXA
+DE INSCRIÇÃO – CONCURSO PÚBLICO DOCENTE EDITAL Nº 012/01/2026.
+5. O candidato deverá anexar ao requerimento cópia dos seguintes documentos:
+5.1. Para redução da taxa de inscrição:
+5.1.1. Quanto à comprovação da condição de estudante (item 1.1):
+a) Certidão ou declaração, expedida por instituição de ensino pública ou privada; ou
+b) Carteira de identidade estudantil ou documento similar, expedido por instituição de
+ensino pública ou privada, ou por entidade de representação discente.
+5.1.2. Quanto à comprovação da remuneração mensal ou condição de desempregado
+(item 1.2):
+a) Comprovante de renda, datado, que comprove o recebimento de remuneração mensal
+inferior a 2 (dois) salários mínimos, emitido há no máximo 3 (três) meses da data do
+envio; ou
+b) Declaração, por escrito, da condição de desempregado, datado e assinado.
+5.2. Para isenção da taxa de inscrição:
+5.2.1. Quanto a comprovação da qualidade de doador de sangue:
+a) Documento único, ou conjunto de documentos, devidamente datado(s) e assinado(s),
+expedido(s) exclusivamente por órgão oficial ou por entidade coletora credenciada pela
+União, pelo Estado ou pelo Município, apto(s) a comprovar a realização de, no mínimo,
+3 (três) doações de sangue pelo candidato, nos 12 (doze) meses anteriores à data de
+inscrição.
+6. Após a entrega dos pedidos, a Comissão Especial de Concurso Público analisará os
+pedidos entregues em tempo hábil, manifestando–se quanto ao deferimento ou
+indeferimento e providenciará a divulgação da relação dos pedidos deferidos e
+indeferidos dentro de 5 (cinco) dias, contados do início do período reservado para o
+recebimento das inscrições.
+7. Após a divulgação do resultado do pedido de redução do valor da taxa de inscrição,
+o candidato deverá, dentro do período de recebimento de inscrições estabelecido neste
+edital:
+a) Pedido deferido: recolher a taxa de inscrição com a redução de 50% (ou seja,
+R$ 63,39).
+b) Pedido indeferido: recolher a taxa de inscrição com o valor integral (ou seja,
+R$ 126,79).
+
+8. Após a divulgação do resultado do pedido de isenção do valor da taxa de inscrição, o
+candidato deverá, dentro do período de recebimento de inscrições estabelecido neste
+edital:
+a) Pedido deferido: realizar a inscrição sem efetuar seu pagamento.
+b) Pedido indeferido: efetuar o pagamento da taxa de inscrição com o valor integral (ou
+seja, R$ 126,79).
+8.1. Em caso de deferimento do pedido de isenção da taxa de inscrição, não será
+necessário ao candidato o upload de comprovante de pagamento da taxa de inscrição.
+9. O candidato que não concordar com o indeferimento do pedido de redução ou isenção
+poderá, SOMENTE no dia seguinte a divulgação da relação que trata o item 6 deste
+Capítulo, protocolar recurso destinado a Comissão Especial de Concurso Público, não
+sendo considerada nenhuma data adicional.
+9.1. O pedido de recurso deverá ser encaminhado para o endereço
+eletrônico: e012adm@cps.sp.gov.br, devendo constar expressamente no assunto do e–
+mail: RECURSO DE REDUÇÃO/ISENÇÃO DO PAGAMENTO DA TAXA
+DE INSCRIÇÃO – CONCURSO PÚBLICO DOCENTE EDITAL Nº 012/01/2026.
+9.2. O candidato tomará conhecimento do resultado do recurso via e–mail, não cabendo
+recurso quanto a esse resultado.
+9.3. No caso de indeferimento do recurso, o candidato deverá seguir o disposto na alínea
+“b” dos itens 7 ou 8 deste Capítulo, a depender do seu pedido (redução ou isenção),
+dentro do período de recebimento de inscrições estabelecido neste edital.
+10. O candidato que realizar a inscrição com pagamento de taxa reduzida em desacordo
+com o determinado neste Capítulo terá o pedido de inscrição invalidado.
+11. Será eliminado deste concurso público o candidato que, não atendendo, à época de
+sua inscrição, aos requisitos previstos no presente Capítulo, tenha obtido, com emprego
+de fraude ou qualquer outro meio que evidencie má fé, a redução ou
+isenção tratadas neste Capítulo.
+11.1. A eliminação de que trata o item 11 importará a anulação da inscrição e dos
+demais atos praticados pelo candidato, sem prejuízo da aplicação de outras sanções
+cabíveis.
+12. A solicitação de redução ou isenção da taxa de inscrição não assegura a inscrição
+automática do candidato no concurso público.
+12.1. Para se inscrever no concurso público, o candidato deverá proceder em
+conformidade com o CAPÍTULO V – DAS INSCRIÇÕES deste edital.
+13. Na hipótese de reabertura do período de inscrições, não será concedido novo prazo
+para solicitações de redução ou isenção da taxa de inscrição.
+
+VI – DA PARTICIPAÇÃO DE PESSOA COM DEFICIÊNCIA
+1. É assegurado às pessoas com deficiência o direito de inscrição no concurso público,
+desde que a deficiência seja compatível com as atribuições do emprego público
+permanente de Professor de Ensino Médio e Técnico.
+2. Para os fins deste concurso público, considera–se pessoa com deficiência aquela que
+tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial,
+os quais, em interação com uma ou mais barreiras, pode obstruir sua participação plena
+e efetiva na sociedade em igualdade de condições com as demais pessoas, nos termos do
+parágrafo único do artigo 1° do Decreto n° 59.591, de 14 de outubro de 2013; do artigo
+2º da Lei nº 13.146, de 6 de julho de 2015; bem como do artigo 1º da Convenção sobre
+os Direitos das Pessoas com Deficiência e de seu Protocolo Facultativo, da Organização
+das Nações Unidas – ONU.
+2.1. Considera–se, ainda, pessoa com deficiência, para os fins deste concurso:
+a) Aquela que se enquadra nas categorias discriminadas no artigo 4º do Decreto nº
+3.298, de 20 de dezembro de 1999 (com redação alterada pelo Decreto nº 5.296, de 2 de
+dezembro de 2004);
+b) A pessoa com transtorno do espectro autista, nos termos do § 1º do artigo 1º da Lei nº
+12.764, de 27 de dezembro de 2012;
+c) O portador de visão monocular, nos termos da Lei nº 14.126, de 22 de março de
+2021.
+3. Devido ao número de vagas oferecido no presente certame, não haverá aplicação da
+Lei Complementar nº 683, de 18 de setembro de 1992 (que dispõe sobre reserva, nos
+concursos públicos, de percentual de cargos e empregos para portadores de deficiência),
+no que diz respeito a reserva de vaga e lista de classificação especial.
+4. O candidato, antes de se inscrever, deverá verificar se as atribuições do emprego
+público, especificadas no ANEXO II, são compatíveis com a deficiência que possui.
+5. Não serão considerados como deficiência os distúrbios passíveis de correção.
+6. As pessoas com deficiência participarão do concurso público em igualdade de
+condições com os demais candidatos no que se refere ao conteúdo das provas; à
+avaliação e aos critérios de aprovação; ao dia, horário de início e local de aplicação das
+provas e às notas mínimas exigidas.
+7. Para efetuar a inscrição, o candidato com deficiência deverá efetuar os procedimentos
+gerais estabelecidos no CAPÍTULO V – DAS INSCRIÇÕES deste edital.
+8. Em atendimento ao § 4º do artigo 2º da Lei Complementar nº 683/1992 (alterada pela
+Lei Complementar nº 932, de 8 de novembro de 2002), o tempo para a realização das
+provas a que serão submetidos os candidatos com deficiência poderá ser diferente
+
+daquele previsto para os candidatos considerados normais, levando–se em conta o grau
+de dificuldade para a leitura e escrita em Braille, bem como o grau de dificuldade
+provocado por outras modalidades de deficiência.
+8.1. O pedido fundamentado de tempo adicional para realização de provas deverá ser
+acompanhado de justificativa médica, cabendo à Comissão Especial de Concurso
+Público deliberar a respeito.
+9. De acordo com a deficiência, o candidato poderá indicar as ajudas técnicas e
+condições específicas para a realização das provas.
+10. O candidato com deficiência deverá, durante o preenchimento da ficha de inscrição:
+a) Informar que é pessoa com deficiência;
+b) Declarar o tipo de deficiência e o código correspondente da Classificação
+Internacional de Doenças – CID;
+c) Especificar as ajudas técnicas e condições especiais de que necessita (se necessário),
+previstas no ANEXO IV; e/ou
+d) Informar se requer tempo adicional para realização da prova;
+e) Enviar o laudo médico emitido por especialista na área de deficiência do candidato.
+11. No laudo médico deverá constar:
+a) Atestar o tipo e grau ou nível de deficiência, com expressa referência ao código
+correspondente da Classificação Internacional de Doenças – CID;
+b) Assinatura e carimbo do número do CRM do médico responsável por sua emissão;
+c) Fundamentação médica para a solicitação; e
+d) Nome completo do candidato, número do documento de identidade, número do CPF
+e opção de emprego público.
+11.1. A validade do laudo médico a que se refere o item 11 será de:
+a) 2 (dois) anos a contar da data de início da inscrição do concurso público, quando a
+deficiência for permanente ou de longa duração; e de
+b) 1 (um) ano a contar da data de início da inscrição do concurso público nas demais
+situações que não se enquadrarem em deficiência permanente ou de longa duração.
+11.2. Somente serão aceitos os documentos nos formatos PDF, PNG, JPEG e JPG, cujo
+tamanho não exceda 5 MB (cinco megabytes). O candidato deverá observar as demais
+orientações contidas no link de inscrição para efetuar o envio da documentação.
+11.3. O laudo médico encaminhado terá validade somente para este concurso público.
+
+11.4. O laudo médico não será devolvido.
+11.5. Os documentos encaminhados fora da forma e dos prazos estipulados neste edital
+não serão considerados.
+12. As provas do concurso público deverão ser realizadas em locais acessíveis aos
+candidatos com deficiência.
+13. O atendimento às condições especiais pleiteadas ficará sujeito à análise da
+razoabilidade e viabilidade do solicitado.
+14. As ajudas técnicas e condições específicas que poderão ser disponibilizadas aos
+candidatos constam no ANEXO IV deste edital.
+15. É de responsabilidade do candidato com deficiência observar a exigência dos
+requisitos contidos neste Edital de Abertura de Inscrições.
+16. O candidato que não realizar a inscrição conforme as instruções constantes deste
+Capítulo não terá as condições especiais providenciadas e perderá o tratamento
+diferenciado no que se refere ao presente certame, não podendo invocar sua situação
+para quaisquer benefícios e não podendo impetrar recurso em razão de sua deficiência,
+seja qual for o motivo alegado.
+17. Após o início do exercício do candidato, a deficiência não poderá ser arguida para
+justificar a concessão de aposentadoria por invalidez.
+18. A verificação da compatibilidade a que se refere o item 1 deste Capítulo será
+verificada nos termos estabelecidos no CAPÍTULO XVIII – DA CONVOCAÇÃO deste
+edital.
+19. Verificada a incompatibilidade entre a deficiência e as atribuições do emprego
+público postulado, o candidato será eliminado do certame.
+
+VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA PRETOS,
+PARDOS OU INDÍGENAS
+1. O candidato preto, pardo ou indígena (PPI) poderá fazer uso do sistema de pontuação
+diferenciada (PD), nos termos da Lei Complementar nº 1.259, de 15 de janeiro de
+2015, e do Decreto nº 63.979, de 19 de dezembro de 2018.
+1.1. O sistema de pontuação diferenciada consiste na aplicação de fatores de
+equiparação mediante acréscimos na pontuação final do candidato beneficiário em cada
+fase do concurso público (Prova Escrita, Prova de Métodos Pedagógicos e Prova de
+Títulos).
+2. Para fazer jus à pontuação diferenciada, o candidato deverá, no ato da inscrição
+deste concurso público, CUMULATIVAMENTE, utilizando os campos específicos da
+ficha de inscrição:
+
+a) Declarar–se preto, pardo ou indígena (autodeclaração);
+b) Declarar, sob as penas da lei, que não foi eliminado de concurso público ou processo
+seletivo realizados no âmbito do Estado de São Paulo, nem teve anulado ato de
+nomeação ou admissão, em decorrência da falsidade da autodeclaração, nos termos do
+disposto no parágrafo único, do artigo 4º, da Lei Complementar nº 1.259/2015; e
+c) Manifestar interesse em utilizar a pontuação diferenciada, nos termos expressos no
+Decreto nº 63.979/2018.
+3. Para realizar a inscrição, o candidato preto, pardo ou indígena que optar por utilizar o
+sistema de pontuação diferenciada deverá efetuar os procedimentos
+gerais de inscrição, bem como observar e cumprir os procedimentos descritos neste
+Capítulo.
+4. O candidato que optar pela utilização da pontuação diferenciada deverá,
+CUMULATIVAMENTE ao preenchimento da ficha de inscrição, enviar, durante o
+período de inscrições, em local próprio da ficha de inscrição:
+a) Uma foto de frente do candidato, nítida, colorida e atualizada, de preferência com
+fundo neutro ou branco (em formato amplamente utilizado, tais sejam: BMP, PNG,
+JPEG), com boa iluminação e com resolução mínima de 5 MP (cinco
+megapixels), especificamente para o candidato que se declarou preto ou pardo;
+b) Registro Administrativo de Nascimento do Índio – RANI próprio (em formato
+amplamente utilizado, tais sejam: BMP, PNG, JPEG) ou, na ausência deste, o Registro
+Administrativo de Nascimento do Índio – RANI de um de seus genitores (em formato
+amplamente utilizado, tais sejam: BMP, PNG, JPEG), especificamente para o candidato
+que se declarou indígena;
+4.1. O RANI deverá estar digitalizado frente e verso (quando necessário), com tamanho
+de até 5 MB (cinco megabytes).
+4.2. O candidato que realizar o upload da foto em formato HEIF
+(High Efficiency Image File Format) ou HEIC (High Efficiency Image Container) terá
+sua inscrição indeferida.
+4.3. Na foto a que se refere a alínea "a" do item 4 deste Capítulo, deverá estar presente
+apenas o candidato (foto individual).
+5. Não serão considerados válidos documentos enviados por qualquer outro meio não
+especificado neste edital (ou seja, que não estejam em conformidade com o
+estabelecido).
+6. É permitido ao candidato declarar–se preto, pardo ou indígena e se manifestar que
+NÃO deseja se beneficiar do sistema de pontuação diferenciada. Nesse caso, o
+candidato será submetido às regras gerais estabelecidas neste edital e não poderá
+interpor recurso em razão dessa opção, seja qual for o motivo alegado.
+
+7. Os candidatos que optarem por utilizar o sistema de pontuação diferenciada
+participarão deste concurso público em igualdade de condições com os demais
+candidatos no que se refere ao conteúdo das provas e à avaliação de desempenho.
+8. A veracidade da autodeclaração de que trata a alínea “a” do item 2
+deste Capítulo será objeto de verificação pela Comissão Especial de Concurso
+Público, designada pelo Superintendente da unidade de ensino, sendo um dos membros,
+obrigatoriamente, preto ou pardo.
+8.1. A designação dos membros da Comissão Especial levará em consideração os
+princípios de moralidade e de impessoalidade em relação aos candidatos inscritos.
+9. A verificação da veracidade da autodeclaração ocorrerá após a realização da Prova
+Escrita e antes da aplicação da Prova de Métodos Pedagógicos, e será feita mesmo na
+hipótese de não ocorrência do cálculo da pontuação diferenciada.
+9.1. Na aferição da veracidade da autodeclaração de candidatos pretos e pardos será
+verificada a fenotipia (aparência) com base na foto enviada pelo candidato
+na inscrição e, caso subsistam dúvidas, será considerado o critério da ascendência.
+9.1.1. Para comprovação da ascendência, será exigido do candidato a apresentação de
+documento idôneo, com foto, de pelo menos um de seus genitores, em que seja possível
+a verificação do preenchimento do requisito previsto para habilitação ao sistema de
+pontuação diferenciada.
+9.1.2. A solicitação a que se refere o item 9.1.1 será divulgada na forma estabelecida no
+item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES, não podendo o
+candidato alegar qualquer desconhecimento.
+9.1.3. O candidato que, após a solicitação a que se refere o item 9.1.1, não enviar o
+documento na forma e prazo estabelecidos, impossibilitando manifestação conclusiva da
+Comissão Especial, será considerado não enquadrado na condição autodeclarada e
+eliminado do concurso público.
+9.2. A aferição da veracidade da autodeclaração do candidato indígena será feita por
+meio do Registro Administrativo de Nascimento do Índio – RANI próprio
+ou, na ausência deste, o Registro Administrativo de Nascimento de Índio – RANI de
+um de seus genitores, que deverá ser enviado no momento da inscrição.
+9.2.1. O candidato que não encaminhar o RANI (próprio ou do genitor) no ato
+da inscrição terá a inscrição indeferida e será eliminado deste concurso público.
+10. Não será efetuada a aferição da veracidade da autodeclaração ao candidato que:
+a) Não manifestou interesse em utilizar a pontuação diferenciada;
+b) Teve a inscrição indeferida;
+c) Não compareceu na Prova Escrita;
+
+d) Não pontuou (zerou) na Prova Escrita;
+e) Obteve nota inferior a 50 (cinquenta) pontos na Prova Escrita (após a aplicação da
+PD).
+11. As decisões relativas à aferição da veracidade da autodeclaração de candidatos
+pretos, pardos e indígenas constarão de edital a ser publicado conforme cronograma
+previsto no ANEXO I, não podendo ser alegada qualquer espécie de desconhecimento.
+12. Ao candidato que vier a ser eliminado do concurso público em virtude da
+constatação de falsidade de sua autodeclaração é facultado, no prazo de 7 (sete) dias
+corridos, opor pedido de reconsideração, nos termos do CAPÍTULO XVI –
+RECONSIDERAÇÃO DE PPI.
+13. O candidato que deixar de cumprir qualquer uma das exigências relativas ao
+processo de heteroidentificação será eliminado deste certame.
+14. A Comissão Especial de Concurso Público, em relação ao sistema de pontuação
+diferenciada, terá as seguintes atribuições:
+a) Ratificar a autodeclaração firmada pelos candidatos que manifestarem interesse em
+serem beneficiários do sistema de pontuação diferenciada;
+b) Decidir, nos casos duvidosos, sobre o direito dos candidatos a fazerem jus à
+pontuação diferenciada; e
+c) Decidir, em juízo de retratação, com o auxílio da respectiva Coordenadoria
+(Coordenadoria de Políticas para a População Negra ou Coordenadoria de Políticas para
+os Povos Indígenas), quando for o caso, os pedidos de reconsideração interpostos por
+candidatos contra a decisão que constatar a falsidade da autodeclaração.
+15. A fórmula de cálculo da pontuação diferenciada a ser atribuída a pretos, pardos e
+indígenas em todas as fases do concurso é a seguinte:
+PD = (MCA – MCPPI) / MCPPI
+16. Onde:
+16.1. PD é a pontuação diferenciada a ser acrescida à nota das provas (Prova Escrita,
+Prova de Métodos Pedagógicos, Prova de Títulos) de todos os candidatos pretos, pardos
+ou indígenas que manifestaram interesse em participar da pontuação diferenciada.
+16.2. MCA é a pontuação média da concorrência ampla entre todos os candidatos que
+pontuaram, excluindo–se os inabilitados. Entende–se por “ampla concorrência” todos os
+candidatos que pontuaram e que não se declararam como pretos, pardos ou indígenas e
+aqueles que, tendo se declarado pretos, pardos ou indígenas, optaram por não participar
+da pontuação diferenciada. Entende–se por candidato inabilitado aquele que NÃO
+alcançar ou superar o desempenho mínimo do concurso público em referência (nesse
+caso, o candidato que obtiver nota inferior a 50 pontos na Prova Escrita e nota inferior a
+
+50 pontos na Prova de Métodos Pedagógicos – não há desempenho mínimo na Prova de
+Títulos).
+16.3. MCPPI é a pontuação média da concorrência PPI entre todos os candidatos que
+pontuaram, excluindo–se os inabilitados. Entende–se por candidato inabilitado aquele
+que NÃO alcançar ou superar o desempenho mínimo do concurso público em
+referência (nesse caso, o candidato que obtiver nota inferior a 50 pontos na Prova
+Escrita e nota inferior a 50 pontos na Prova de Métodos Pedagógicos – não há
+desempenho mínimo na Prova de Títulos).
+17. A fórmula para aplicação da pontuação diferenciada às notas finais
+de candidatos pretos, pardos e indígenas em cada fase do certame é:
+NFCPPI = (1 + PD) * NSCPPI
+18. Onde:
+18.1. NFCPPI é a nota final na fase do concurso público, após a aplicação da pontuação
+diferenciada e que gerará a classificação do candidato na etapa do certame. Ao término
+da fase do concurso público, a nota final passa a ser considerada a nota simples do
+candidato.
+18.2. NSCPPI é a nota simples do candidato beneficiário, sobre a qual será aplicada a
+pontuação diferenciada.
+19. As fórmulas de cálculo da pontuação diferenciada serão aplicadas em cada uma das
+fases do concurso público (Prova Escrita, Prova de Métodos Pedagógicos, Prova de
+Títulos).
+20. A eliminação dos candidatos que não obtiveram o desempenho mínimo estipulado
+neste edital ocorrerá após a aplicação da pontuação diferenciada (PD) sobre a nota
+simples do candidato beneficiário do sistema diferenciado de que trata este Capítulo.
+21. Os cálculos já efetuados referentes à pontuação diferenciada relativos ao
+desempenho médio dos candidatos não serão refeitos ou alterados em virtude de
+exclusão de candidatos por falsidade na autodeclaração.
+22. Não será aplicada a pontuação diferenciada:
+a) Na inexistência, entre os habilitados, de candidatos beneficiários do sistema
+diferenciado entre os habilitados;
+b) Quando, na fórmula de cálculo da pontuação diferenciada (PD), a MCPPI (pontuação
+média da concorrência PPI) for maior ou igual que a MCA (pontuação média da
+concorrência ampla);
+c) Ao candidato que não obtiver nota (zerar) na Prova Escrita;
+d) Ao candidato que não obtiver nota (zerar) na Prova de Métodos Pedagógicos.
+
+23. Os cálculos a que se referem os itens 15 e 17 deste Capítulo devem considerar duas
+casas decimais e frações maiores ou iguais a 0,5 (cinco décimos) devem ser
+arredondadas para o número inteiro subsequente.
+24. Ao candidato preto, pardo ou indígena que seja pessoa com deficiência é assegurado
+o direito de manifestar interesse em utilizar a pontuação diferenciada de que trata este
+Capítulo.
+
+VIII – DA PARTICIPAÇÃO DE ESTRANGEIROS
+1. Somente poderão ser admitidos os estrangeiros que preencham os requisitos para
+naturalização, e os estrangeiros de nacionalidade portuguesa, com direito aos benefícios
+do Estatuto de Igualdade entre Brasileiros e Portugueses (Decreto nº 3.927, de 19 de
+setembro de 2001).
+2. Para inscrição no presente concurso público, será exigido dos candidatos estrangeiros
+o documento oficial de identificação, ou seja, o Registro Nacional
+Migratório – RNM (antigo Registro Nacional de Estrangeiro – RNE).
+3. Concedida a naturalização ou obtidos os benefícios do Estatuto de Igualdade, na
+data da manifestação para aceite do emprego público e das aulas, quando de sua
+convocação em edital, deverá o candidato entregar, para registro, o documento de
+identidade de modelo igual ao dos brasileiros natos, com as anotações pertinentes.
+4. O estrangeiro que:
+4.1. Se enquadre na hipótese de naturalização ordinária (artigo 12, II, "a", da
+Constituição Federal), deve comprovar, no momento da admissão, o deferimento de seu
+pedido de nacionalidade brasileira pela autoridade federal competente, mediante entrega
+de cópia desse deferimento;
+4.2. Se enquadre na hipótese de naturalização extraordinária (artigo 12, II, "b", da
+Constituição Federal), deve comprovar, no momento da admissão, o preenchimento das
+condições exigidas na legislação federal para a concessão da nacionalidade brasileira,
+mediante apresentação de cópia do requerimento de naturalização junto ao Ministério da
+Justiça e Segurança Pública, com os documentos que o instruíram;
+4.3. Tem nacionalidade portuguesa, deve comprovar, no momento da admissão, o
+preenchimento dos requisitos necessários à fruição dos benefícios do Estatuto de
+Igualdade com brasileiros quanto ao gozo de direitos civis (Decreto Federal nº 3.297, de
+19 de setembro de 2001), mediante a apresentação de cópia do requerimento para sua
+obtenção junto ao Ministério da Justiça e Segurança Pública, com os documentos que
+o instruíram.
+5. Será desclassificado deste concurso público o estrangeiro que não cumprir as
+exigências listadas neste Capítulo.
+
+IX – DA INCLUSÃO E DO NOME SOCIAL
+1. Em conformidade com o Decreto nº 55.588, de 17 de março de 2010, a pessoa
+transexual ou travesti poderá solicitar a inclusão e uso do nome social para tratamento e
+demais publicações referentes ao concurso público, mediante preenchimento na ficha
+de inscrição.
+2. A pessoa transexual ou travesti que queira fazer uso do nome social para tratamento
+no concurso público deverá, no ato da inscrição, preencher o campo específico da ficha
+de inscrição, informando o nome social completo (nome e sobrenome).
+3. O candidato que não fizer uso do campo específico da ficha de inscrição não poderá
+invocar o uso do nome social neste certame.
+4. Não será considerado o requerimento de uso do nome social enviado por quaisquer
+outras formas diferentes da única especificada neste edital.
+
+X – DO DEFERIMENTO E INDEFERIMENTO DAS INSCRIÇÕES
+1. O deferimento da inscrição dar–se–á mediante o correto preenchimento da ficha
+de inscrição, dentro do período determinado neste edital.
+2. As inscrições serão deferidas ou indeferidas pelo Superintendente da unidade de
+ensino, através de ato divulgado na forma do item 3 do CAPÍTULO I – DAS
+DISPOSIÇÕES PRELIMINARES deste edital, não podendo o candidato alegar
+desconhecimento.
+3. Com relação ao e–mail informado pelo candidato na ficha de inscrição, o Centro
+Paula Souza não se responsabilizará por eventuais prejuízos ao candidato decorrentes
+de:
+a) Endereço eletrônico (e–mail) não informado na ficha de inscrição;
+b) Endereço eletrônico informado que esteja incompleto, incorreto ou não atualizado
+pelo candidato;
+c) Problemas no provedor de acesso do candidato, como caixa de correio eletrônico
+cheia, filtros anti–spam, eventuais truncamentos ou qualquer outro problema de ordem
+técnica.
+4. O candidato terá sua inscrição indeferida (ou seja, não terá sua inscrição
+efetivada) em caso de:
+a) Preencher os campos da ficha de inscrição de modo incompleto e/ou incorreto,
+excetuando–se as informações passíveis de correção, conforme item 15 do CAPÍTULO
+V – DAS INSCRIÇÕES;
+
+b) Deixar de atender a qualquer um dos procedimentos para inscrição listados no
+item 3 do CAPÍTULO V – DAS INSCRIÇÕES;
+c) Não efetuar o pagamento da taxa de inscrição;
+d) Efetuar o pagamento da taxa de inscrição em valor menor do que o estabelecido;
+e) Efetuar o pagamento da taxa de inscrição após o período estabelecido para inscrição;
+f) Não efetuar o upload do comprovante de pagamento da taxa de inscrição;
+g) Efetuar o upload de documento diferente do comprovante do pagamento da taxa
+de inscrição;
+h) Preenchimento incorreto ou incompleto da ficha de inscrição;
+i) Não efetuar o upload da foto (candidato preto ou pardo optante da pontuação
+diferenciada);
+j) Efetuar o upload de outro arquivo ao invés da foto;
+k) Efetuar o upload de foto em que estejam presentes outras pessoas além do candidato;
+l) Efetuar o upload da foto em formato HEIF (High Efficiency Image File Format)
+ou HEIC (High Efficiency Image Container);
+m) Não efetuar o upload do RANI (candidato indígena optante da pontuação
+diferenciada);
+n) Efetuar o upload de outro arquivo ao invés do RANI;
+o) Efetuar o upload do RANI em formato HEIF (High Efficiency Image File
+Format) ou HEIC (High Efficiency Image Container);
+p) Efetuar o upload do RANI em formato diferente do estabelecido no CAPÍTULO VII
+– DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU
+INDÍGENAS;
+q) Os arquivos encaminhados estiverem ilegíveis, rasurados ou corrompidos.
+5. O descumprimento das instruções para inscrição pela internet implicará no seu
+indeferimento.
+6. Ao candidato com inscrição indeferida, será facultado interpor recurso, nos termos
+do CAPÍTULO XV – DOS RECURSOS.
+
+XI – DAS PROVAS
+
+1. O concurso público contará com 3 (três) fases, na seguinte ordem:
+a) Prova Escrita (Prova Objetiva), de caráter eliminatório e classificatório;
+b) Prova de Métodos Pedagógicos (Prova Objetiva de Habilidades Operacionais ou
+Técnicas), de caráter eliminatório e classificatório; e
+c) Prova de Títulos, de caráter exclusivamente classificatório.
+
+XI.1 – DA CANDIDATA LACTANTE
+1. A candidata lactante que necessitar amamentar seu(s) filho(s) de até 6 (seis) meses de
+idade durante a realização das provas (Prova Escrita e Prova de Métodos
+Pedagógicos) poderá fazê–lo mediante preenchimento de requerimento próprio,
+disponível no site deste concurso público, onde a candidata efetuou a inscrição.
+2. Em caso de necessidade de amamentação durante a realização das provas, a candidata
+lactante deverá levar um acompanhante (familiar ou terceiro indicado pela candidata),
+maior de idade, que ficará em local reservado para tal finalidade e que será responsável
+pela criança.
+2.1. Os dados do adulto responsável pela guarda da criança deverão constar do
+requerimento citado no item 1 deste Capítulo.
+3. O acompanhante ficará em sala reservada e será o responsável pela guarda da
+criança. O acompanhante estará submetido a todas as normas constantes deste edital,
+inclusive à apresentação de documento oficial de identificação e à proibição de uso de
+equipamentos eletrônicos.
+4. A candidata que não levar o acompanhante não poderá permanecer com a criança no
+local de realização das provas.
+5. O Centro Paula Souza não disponibilizará, em hipótese alguma, acompanhante para a
+guarda da criança.
+6. No momento da amamentação, a candidata será acompanhada por uma fiscal, sem a
+presença do responsável pela criança e sem o eventual material da prova.
+6.1. Se não houver a possibilidade do acompanhamento de uma fiscal, um fiscal do sexo
+masculino acompanhará a candidata até a sala reservada para a amamentação,
+permanecendo do lado de fora da sala durante o tempo de amamentação;
+6.2. A mãe terá o direito de proceder à amamentação a cada intervalo de 2 (duas) horas,
+por até 30 (trinta) minutos, por filho.
+7. Haverá compensação do tempo de amamentação em favor da candidata. O tempo
+despendido na amamentação será compensado durante a realização da prova, em igual
+período.
+
+8. Excetuada a situação prevista neste Capítulo, não será permitida a permanência de
+criança ou de adulto de qualquer idade nas dependências do local de realização da
+prova, podendo ocasionar inclusive a não participação da candidata neste concurso
+público.
+9. Para solicitar a possibilidade de amamentação da criança durante a realização das
+provas, a candidata deverá:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar
+em EM ANDAMENTO (ou clicar em ETECs > CONCURSO PÚBL. DOCENTE > EM
+ANDAMENTO);
+c) Na próxima tela, localizar o edital deste certame;
+d) Fazer o download do Formulário de Solicitação para Amamentar, e preenchê–lo com
+as informações pertinentes;
+e) Juntar ao formulário a cópia do documento de identidade com foto do adulto
+responsável por sua guarda;
+f) Encaminhar o requerimento e a cópia do documento para o e–
+mail e012adm@cps.sp.gov.br. No assunto do e–mail, deverá constar expressamente:
+SOLICITAÇÃO PARA AMAMENTAR DURANTE AS PROVAS – CONCURSO
+PÚBLICO DOCENTE EDITAL Nº 012/01/2026.
+10. A candidata poderá enviar o requerimento até 5 (cinco) dias úteis antes da data de
+realização da respectiva prova.
+11. Não serão considerados os requerimentos enviados fora das regras deste edital.
+
+XI.2 – DA BANCA EXAMINADORA
+1. A Banca Examinadora será designada por ato do Superintendente da unidade de
+ensino e será composta obrigatoriamente por 5 (cinco) membros (3 titulares, sendo um
+deles o Presidente, e 2 suplentes), contando com pelo menos 1 (um) especialista na área
+de ensino do Componente Curricular como membro titular.
+1.1. O Superintendente da unidade de ensino poderá designar a Banca Examinadora
+com membros de outras unidades de ensino ou de fora do Centro Paula Souza.
+2. A designação dos membros da Banca Examinadora levará em consideração os
+princípios de moralidade e de impessoalidade em relação aos candidatos inscritos. A
+inobservância desses princípios poderá acarretar na anulação do certame.
+
+3. A divulgação dos membros da Banca Examinadora se dará através dos
+meios informados no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES
+PRELIMINARES deste edital, não podendo o candidato alegar desconhecimento.
+4. A Banca Examinadora ficará responsável tanto pela Prova de Métodos Pedagógicos
+(Prova Objetiva de Habilidades Operacionais ou Técnicas) quanto pela Prova de
+Títulos.
+
+XI.3 – DA PROVA ESCRITA
+1. A Prova Escrita (Prova Objetiva) visa verificar se o candidato domina os
+diferentes conteúdos do Componente Curricular do concurso público e será composta
+por questões de múltipla escolha. Ela terá caráter eliminatório e classificatório.
+2. A Prova Escrita será feita após:
+a) A designação da Banca Examinadora; e
+b) O deferimento/indeferimento das inscrições.
+3. A Prova Escrita será aplicada no mesmo dia e horário para todos os candidatos.
+4. A Prova Escrita será composta por 25 (vinte e cinco) questões de múltipla
+escolha, numeradas sequencialmente, contendo 4 (quatro) alternativas cada e
+apenas uma resposta correta.
+4.1. Todas as questões serão pontuadas com o mesmo valor.
+5. A prova versará sobre o conteúdo programático constante do ANEXO VI deste
+edital.
+6. O local, data e a duração da Prova Escrita constarão do respectivo edital de
+convocação.
+6.1. Caso o presente certame tenha sido aberto para a Classe Descentralizada, a
+Prova Escrita será realizada na unidade sede do concurso público, indicada no
+cabeçalho deste edital.
+6.2. Em caso de necessidade de alteração da data, os candidatos tomarão conhecimento
+através de ato divulgado na forma do item 3 do CAPÍTULO I – DAS DISPOSIÇÕES
+PRELIMINARES deste edital, não podendo ser alegado qualquer espécie de
+desconhecimento.
+7. A aplicação da prova na data prevista dependerá da disponibilidade de local adequado
+à sua realização e à acomodação dos candidatos.
+8. Caso haja impossibilidade de aplicação da prova no local constante do edital, por
+qualquer que seja o motivo, o Centro Paula Souza poderá aplicá–la em outra unidade de
+
+ensino (que poderá estar localizada no mesmo ou em outro município), não assumindo
+qualquer tipo de responsabilidade quanto às eventuais despesas dos candidatos.
+8.1. Na hipótese da realização das provas ocorrerem na unidade de ensino designada, o
+Centro Estadual de Educação Tecnológica Paula Souza se exime de despesas
+decorrentes de viagens e estadas dos candidatos para comparecimento a qualquer das
+fases deste concurso público, bem como da responsabilidade sobre material e/ou
+documento eventualmente esquecidos nos locais de prova."
+9. A Prova Escrita terá sua duração informada no respectivo edital de convocação para a
+realização da prova.
+9.1. O tempo para a realização da Prova Escrita a que o candidato com deficiência será
+submetido poderá ser diferente daquele previsto para os demais candidatos, desde que o
+candidato com deficiência faça a solicitação nos termos do disposto no CAPÍTULO VI
+– DA PARTICIPAÇÃO DE PESSOA COM DEFICIÊNCIA.
+9.2. O tempo adicional de que trata o item anterior será de, no máximo, uma hora, para a
+realização da Prova Escrita.
+10. Os portões da unidade de ensino (unidade de aplicação) serão fechados 30 (trinta)
+minutos antes do horário de início da prova (constante do edital de convocação),
+observado o horário oficial de Brasília, não sendo admitido o ingresso de candidatos nas
+suas dependências, sob pretexto algum, após o fechamento dos portões.
+11. A convocação para a Prova Escrita se dará através de edital divulgado na forma do
+item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES deste edital, não
+podendo alegar o candidato qualquer espécie de desconhecimento.
+12. Ao candidato só será permitida a realização da Prova Escrita na data, horário e local
+constantes do respectivo edital de convocação.
+13. Recomenda–se que o candidato compareça ao local designado para a prova,
+constante do respectivo edital de convocação, com antecedência mínima de 60
+(sessenta) minutos do horário previsto para seu início (de modo a comparecer antes do
+fechamento dos portões).
+14. Não será admitido o ingresso de candidatos nas dependências da unidade de
+aplicação da prova, sob pretexto algum, após o horário estabelecido para o fechamento
+dos portões.
+15. Será admitido no local da prova somente o candidato que estiver munido de:
+a) Caneta esferográfica de tinta azul ou preta;
+b) Documento de identificação oficial, original, vigente e com foto, em uma das
+seguintes formas:
+
+I – Carteiras e/ou cédulas de identidade expedidas pelas Secretarias de Segurança (ex.
+Cédula de Identidade – RG, Carteira de Identidade Nacional – CIN), Ministério das
+Relações Exteriores e Polícia Federal;
+II – Carteiras de Identidade expedidas pelas Forças Armadas, Polícias Militares e
+Corpos de Bombeiros Militares;
+III – Registro Nacional Migratório (RNM) (antigo Registro Nacional de Estrangeiro –
+RNE);
+IV – Carteira de Trabalho e Previdência Social (CTPS);
+V – Carteiras Profissionais expedidas por Órgãos ou Conselhos de Classes que, por Lei
+Federal, valham como documento de identidade (como, por exemplo, as Carteiras do
+CREA, OAB, CRC, CRM etc.);
+VI – Carteira Nacional de Habilitação (CNH) com fotografia na forma da Lei nº
+9.503/1997;
+VII – Passaporte.
+b.1) Alternativamente, o candidato poderá apresentar a versão digital de um dos
+documentos previstos na alínea “b” do item 15, desde que devidamente gerado pelo
+respectivo aplicativo oficial e que o documento digital possua foto, sendo vedada a
+apresentação de mero “print” ou foto do documento. Neste caso, a conferência será feita
+exclusivamente por meio de acesso ao documento no aplicativo do órgão emissor.
+b.1.1) A título de exemplo, enquadram–se nos termos do item anterior os seguintes
+aplicativos de documentos digitais de identificação com foto: Cédula de Identidade
+(RG), ou Carteira Nacional de Habilitação (CNH), ou Título Eleitoral Digital (e–
+Título).
+16. Somente será admitido no local da prova o candidato que estiver munido do original
+do documento oficial, vigente e com foto.
+16.1. O documento de identidade apresentado deverá estar em perfeitas condições, de
+forma a permitir a identificação com clareza.
+16.2. Não serão aceitos para efeito de identificação, por serem documentos destinados a
+outros fins:
+a) Boletim de ocorrência;
+b) Protocolo de requisição de documento;
+c) Carteira de Reservista;
+d) Certidão de Nascimento ou de Casamento;
+e) Título Eleitoral;
+
+f) Carteira Nacional de Habilitação emitida anteriormente à Lei nº 9.503/1997;
+g) Carteira de Estudante;
+h) Crachá;
+i) Identidade funcional (carteira funcional) de natureza pública ou privada;
+j) Documentos vencidos há mais de 30 (trinta) dias;
+k) Cópias de documentos, ainda que autenticadas;
+l) Qualquer outro documento que não os elencados na alínea “b” do
+item 15 deste Capítulo.
+16.3. Não será aceita a Carteira Funcional que não seja válida como documento de
+identidade no território nacional.
+17. O candidato que não apresentar um dos documentos elencados na alínea “b” do
+item 15 deste Capítulo ou cujo documento de identificação gere dúvidas quanto à sua
+fisionomia ou assinatura não fará a Prova Escrita, sendo considerado ausente e
+eliminado do concurso público.
+18. Não será admitido na unidade de aplicação da prova o candidato que se apresentar
+após o fechamento dos portões.
+19. Não será admitido na sala de prova o candidato que, mesmo adentrando a unidade
+de aplicação, se apresentar após o início da prova.
+20. Não haverá segunda chamada, seja qual for o motivo alegado para justificar o atraso
+ou a ausência dos candidatos, nem aplicação de prova fora do local, data e horário
+preestabelecidos.
+21. O candidato não poderá alegar quaisquer desconhecimentos sobre a realização da
+prova como justificativa de sua ausência.
+22. O não comparecimento às provas, qualquer que seja o motivo, caracterizará
+desistência do candidato e resultará em sua eliminação do certame.
+23. No dia designado para a prova, o candidato assinará a lista de presença.
+24. O candidato não poderá ausentar–se da sala ou local de prova sem o
+acompanhamento de um fiscal.
+24.1. Não haverá prorrogação do tempo previsto para a realização da Prova Escrita em
+virtude de afastamento, por qualquer motivo, de candidato da sala ou local de prova.
+24.2. A exceção ao item 24.1 dar–se–á, nos termos deste edital, a candidata lactante que
+solicitou a necessidade de amamentação durante a realização da prova, nos termos
+do CAPÍTULO XI.1. – DA CANDIDATA LACTANTE.
+
+25. São de reponsabilidade do candidato a verificação e a conferência do material
+entregue pelo Centro Paula Souza, para a realização da prova.
+26. Durante a prova, não será permitida:
+a) Qualquer espécie de consulta a códigos, livros, manuais, impressos, anotações e/ou
+outro tipo de pesquisa, bem como a utilização de outro material não fornecido pelo
+Centro Paula Souza;
+b) A utilização de protetor auricular, de boné, de gorro, de chapéu, de óculos de sol, de
+relógio (de qualquer tipo), de telefone celular/smartphone ou de qualquer equipamento
+eletrônico de comunicação ou de gravação de imagem, de som, ou de imagem e som
+pelo candidato.
+27. O candidato que estiver de posse de qualquer equipamento eletrônico deverá, antes
+do início da respectiva prova:
+a) Desligá–lo;
+b) Retirar sua bateria (se possível);
+c) Acondicioná–lo embaixo da carteira escolar, antes do início da respectiva prova,
+devendo mantê–lo ali durante todo o tempo de realização da prova;
+d) Colocar também embaixo da carteira escolar os eventuais pertences pessoais (bonés,
+gorros ou similares, relógios de qualquer tipo, protetor auricular etc.).
+27.1. Os aparelhos eletrônicos deverão permanecer desligados, bem como seus alarmes
+desabilitados, até a saída do candidato do prédio de aplicação das provas.
+28. Será excluído deste concurso público o candidato que:
+a) Não comparecer na prova, seja qual for o motivo, não podendo ser alegada qualquer
+espécie de desconhecimento quanto a divulgação do dia, horário e local;
+b) Apresentar–se fora do local, data e/ou horário estabelecidos na respectiva
+convocação;
+c) Não apresentar o documento de identificação para a realização da prova, nos termos
+deste edital;
+d) Quando o documento de identidade do candidato não permitir sua identificação;
+e) Ausentar–se, durante o prova, da sala ou do local de prova sem o acompanhamento
+de um fiscal;
+f) Estiver, no local de prova, portando, após o seu início, qualquer equipamento
+eletrônico e/ou sonoro e/ou de comunicação ligados ou desligados, que não tenha
+atendido aos itens 26 e 27 deste Capítulo (ex. telefone celular, relógios digitais, agenda
+
+eletrônica, notebook, tablet, receptor, gravador, smartphone ou equipamentos similares,
+bem como protetores auriculares);
+g) Lançar meios ilícitos para a realização da prova;
+h) For surpreendido em comunicação com outro candidato ou terceiros, verbalmente ou
+por escrito, bem como fazendo uso de material não permitido para a realização da
+respectiva prova (ex. livro, anotação, impresso não permitido, máquina calculadora ou
+similar);
+i) Fizer anotação de informações relativas às suas respostas, em qualquer material que
+não o fornecido pelo Centro Paula Souza, ou copiar questões, em parte ou completas em
+outros papéis;
+j) Não devolver ao fiscal da sala a folha de respostas da prova completa;
+k) Não devolver ao fiscal da sala o caderno de questões da Prova Escrita completo;
+l) Estiver portando armas (de fogo ou brancas) de qualquer espécie, ainda que possua o
+respectivo porte ou autorização;
+m) Durante a prova, não atender a quaisquer das disposições estabelecidas neste edital;
+n) Perturbar, de qualquer modo, a ordem dos trabalhos;
+o) Agir com incorreção ou descortesia para com qualquer membro da equipe
+encarregada da aplicação das provas, direção da unidade de ensino ou autoridade
+presente;
+p) Retirar–se do local da Prova Escrita, antes de decorrido o tempo mínimo
+de 1h30 de seu início;
+q) Caso esteja utilizando máscara de proteção, recusar–se a retirá–la para o
+procedimento de identificação e/ou para o procedimento de vistoria visual durante as
+provas.
+29. O horário de início das provas será definido igual para todos os candidatos.
+30. O candidato deverá permanecer obrigatoriamente na sala de realização da
+Prova Escrita por, no mínimo, 1h30 após o seu início.
+31. No ato da realização da Prova Escrita, o candidato receberá:
+a) O caderno de questões da Prova Escrita; e
+b) A folha de respostas.
+32. O candidato deverá observar, total e atentamente, os termos das instruções contidas
+na capa do caderno de questões e na folha de respostas, não podendo ser alegada
+qualquer espécie de desconhecimento.
+
+33. O candidato receberá a folha de respostas e deverá conferir todas as informações, se
+há falhas de impressão e se o caderno está completo.
+33.1. Na hipótese de haver incorreções na folha de respostas e/ou caderno de questões,
+falhas de impressão ou ausência de folhas, o candidato deverá informar imediatamente
+ao fiscal da sala.
+34. Em hipótese alguma haverá substituição das folhas de respostas por erro do
+candidato.
+35. A folha de respostas, de preenchimento exclusivo e de responsabilidade do
+candidato, é o único documento válido para a correção e deverá ser entregue, ao final da
+prova, ao fiscal de sala, juntamente com o caderno de questões completo.
+36. O candidato deverá transcrever as respostas para a folha de respostas, com caneta de
+tinta azul ou preta, bem como assinar no campo apropriado.
+37. O candidato que tenha obtido autorização para utilização de fiscal transcritor deverá
+indicar os alvéolos a serem preenchidos por esse fiscal.
+38. Não será computada questão com emenda ou rasura, nem questão não respondida ou
+que contenha mais de uma resposta, mesmo que uma delas esteja correta.
+39. Na folha de respostas, não deverá ser feita nenhuma marca fora do campo reservado
+às respostas ou à assinatura do candidato, sob pena de acarretar prejuízo ao desempenho
+do candidato.
+40. Para garantir a lisura do encerramento da prova, deverão permanecer em
+cada uma das salas de prova (quando houver mais de uma sala) os 3 (três) últimos
+candidatos, até que o último deles entregue sua prova. Esses candidatos – após a
+assinatura na ata de sala – deverão sair juntos da sala de prova.
+40.1. O candidato que se recusar a ficar na sala será desclassificado do certame.
+41. Após o término do prazo previsto para a duração da Prova Escrita, não será
+concedido tempo adicional para o candidato continuar respondendo questão ou
+procedendo à transcrição para a folha de respostas.
+42. O gabarito oficial será disponibilizado, para consulta, no site do Centro Paula Souza
+(www.cps.sp.gov.br), na página deste concurso público.
+43. Não será permitida a interferência ou a participação de outras pessoas, salvo em
+caso de candidato que tenha solicitado e obtido autorização para atendimento especial
+para a realização da Prova Escrita. Nesse caso, o candidato será acompanhado pelo
+fiscal, para o qual deverá ditar os textos, especificando oralmente a grafia das palavras e
+os sinais gráficos de pontuação.
+44. Não será prestado aos candidatos nenhum esclarecimento sobre o enunciado das
+questões ou sobre o modo de resolvê–las.
+
+45. Não será admitido o uso de qualquer outra folha de papel para rascunho diversa da
+existente no caderno. Para tanto, o candidato deverá atentar para os respectivos espaços
+específicos destinados para rascunho, a fim de que não seja prejudicado.
+45.1. Os campos reservados para rascunho são de preenchimento facultativo e não serão
+considerados para avaliação.
+46. A Prova Escrita tem por objetivo selecionar os 5 (cinco) primeiros candidatos por
+vaga, em ordem decrescente de nota, para participarem das demais fases (Prova de
+Métodos Pedagógicos e Prova de Títulos).
+46.1. Havendo empate de notas entre o 5º (quinto) candidato e os candidatos
+subsequentes, todos os candidatos que se encontrarem nessa condição serão
+selecionados para participarem da Prova de Métodos Pedagógicos.
+47. O resultado da Prova Escrita será divulgado na forma estabelecida no
+item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES.
+
+XI.4 – DA PROVA DE MÉTODOS PEDAGÓGICOS
+1. A Prova de Métodos Pedagógicos (Prova Objetiva de Habilidades Operacionais ou
+Técnicas) consistirá na apresentação de uma aula, ministrada pelo candidato perante a
+Banca Examinadora, versando sobre os conteúdos do Componente Curricular oferecido
+neste edital. Ela terá caráter eliminatório e classificatório.
+2. A Prova de Métodos Pedagógicos será feita após:
+a) A divulgação em DOE do resultado da Prova Escrita; e
+b) A divulgação em DOE do resultado da Aferição da Veracidade da Autodeclaração
+(na existência de candidatos pretos, pardos ou indígenas optantes pela pontuação
+diferenciada).
+3. Serão convocados para a Prova de Métodos Pedagógicos os 5 (cinco) primeiros
+candidatos, em ordem decrescente da nota da Prova Escrita, e os que empatarem na 5ª
+(quinta) classificação.
+4. Os candidatos convocados farão a apresentação seguindo a ordem decrescente da
+nota da Prova Escrita e, em caso de empate na nota, seguindo a ordem crescente do
+número de inscrição.
+5. A prova terá por objetivo avaliar o candidato sob o aspecto do conhecimento
+específico, voltado para área do Componente Curricular e sob o aspecto didático–
+pedagógico da prática docente, mediante critérios estabelecidos no ANEXO VII deste
+edital.
+6. O local, data, temas e tempo de duração da apresentação da Prova de Métodos
+Pedagógicos constarão da publicação em DOE do edital de convocação para a referida
+
+prova, divulgado na forma do item 3 do CAPÍTULO I – DAS DISPOSIÇÕES
+PRELIMINARES deste edital, não podendo ser alegado qualquer espécie de
+desconhecimento.
+6.1. Caso o presente certame tenha sido aberto para a Classe Descentralizada, a Prova
+de Métodos Pedagógicos será realizada na unidade sede do concurso público, indicada
+no cabeçalho deste edital.
+6.2. Em caso de necessidade de alteração da data, os candidatos tomarão conhecimento
+através de ato divulgado na forma do item 3 do CAPÍTULO I – DAS DISPOSIÇÕES
+PRELIMINARES deste edital, não podendo ser alegado qualquer espécie de
+desconhecimento.
+7. A aplicação da prova na data prevista dependerá da disponibilidade de local adequado
+à sua realização e à acomodação dos candidatos.
+7.1. Caso haja impossibilidade de se efetuar a prova na mesma unidade de aplicação,
+por qualquer que seja o motivo, o Centro Paula Souza poderá aplicá–la em outra
+unidade de ensino (que poderá estar localizada no mesmo ou em outro município), não
+assumindo qualquer tipo de responsabilidade quanto às eventuais despesas dos
+candidatos.
+7.2. Na hipótese da realização das provas ocorrerem na unidade de ensino designada, o
+Centro Estadual de Educação Tecnológica Paula Souza se exime de despesas
+decorrentes de viagens e estadas dos candidatos para comparecimento a qualquer das
+fases deste concurso público, bem como da responsabilidade sobre material e/ou
+documento eventualmente esquecidos nos locais de prova.
+8. Ao candidato só será permitida a realização da Prova de Métodos Pedagógicos na
+respectiva data, horário e local constantes do edital de convocação.
+9. Recomenda–se que o candidato compareça ao local designado para a prova, constante
+do respectivo edital de convocação, com antecedência mínima de 60 (sessenta) minutos
+do horário estabelecido para o seu início.
+9.1. Não será admitido o ingresso de candidatos nas dependências da unidade de ensino,
+sob pretexto algum, após o horário estabelecido.
+10. Será admitido no local da prova somente o candidato que estiver munido de:
+a) Documento de identificação oficial, original, vigente e com foto, em uma das
+seguintes formas:
+I – Carteiras e/ou cédulas de identidade expedidas pelas Secretarias de Segurança (ex.
+Cédula de Identidade – RG, Carteira de Identidade Nacional – CIN), Ministério das
+Relações Exteriores e Polícia Federal;
+II – Carteiras de Identidade expedidas pelas Forças Armadas, Polícias Militares e
+Corpos de Bombeiros Militares;
+
+III – Registro Nacional Migratório (RNM) (antigo Registro Nacional de Estrangeiro –
+RNE);
+IV – Carteira de Trabalho e Previdência Social (CTPS);
+V – Carteiras Profissionais expedidas por Órgãos ou Conselhos de Classes que, por Lei
+Federal, valham como documento de identidade (como, por exemplo, as Carteiras do
+CREA, OAB, CRC, CRM etc.);
+VI – Carteira Nacional de Habilitação (CNH) com fotografia na forma da Lei nº
+9.503/1997;
+VII – Passaporte.
+a.1) Alternativamente, o candidato poderá apresentar a versão digital de um dos
+documentos previstos na alínea “a” do item 10, desde que devidamente gerado pelo
+respectivo aplicativo oficial e que o documento digital possua foto, sendo vedada a
+apresentação de mero “print”. Neste caso, a conferência será feita exclusivamente por
+meio de acesso ao documento no aplicativo do órgão emissor.
+a.1.1) A título de exemplo, enquadram–se nos termos do item anterior os seguintes
+aplicativos de documentos digitais de identificação com foto: Cédula de Identidade
+(RG), ou Carteira Nacional de Habilitação (CNH), ou Título Eleitoral Digital (e–
+Título).
+11. Somente será admitido no local da prova o candidato que estiver munido do original
+do documento oficial, vigente e com foto.
+11.1. O documento de identidade apresentado deverá estar em perfeitas condições, de
+forma a permitir a identificação com clareza.
+11.2. Não serão aceitos para efeito de identificação, por serem documentos destinados a
+outros fins:
+a) Boletim de ocorrência;
+b) Protocolo de requisição de documento;
+c) Carteira de Reservista;
+d) Certidão de Nascimento ou de Casamento;
+e) Título Eleitoral;
+f) Carteira Nacional de Habilitação emitida anteriormente à Lei nº 9.503/1997;
+g) Carteira de Estudante;
+h) Crachá;
+
+i) Identidade funcional (carteira funcional) de natureza pública ou privada;
+j) Documentos vencidos há mais de 30 (trinta) dias;
+k) Cópias de documentos, ainda que autenticadas;
+l) Qualquer outro documento que não os elencados na alínea “a” do item 10 deste
+Capítulo.
+11.3. Não será aceita a Carteira Funcional que não seja válida como documento de
+identidade no território nacional.
+12. O candidato que não apresentar um dos documentos elencados na alínea “a” do item
+10 deste Capítulo ou cujo documento de identificação gere dúvidas quanto à sua
+fisionomia ou assinatura não fará a Prova de Métodos Pedagógicos, sendo considerado
+ausente e eliminado do concurso público.
+13. Não será admitido na unidade de ensino ou na sala de prova o candidato que se
+apresentar após o horário estabelecido para o seu início.
+14. A lista de temas para apresentação na Prova de Métodos Pedagógicos constará da
+publicação em DOE do edital de convocação para a referida prova.
+15. O tema para a Prova de Métodos Pedagógicos a ser apresentado pelo candidato será
+sorteado pela Banca Examinadora no dia da prova, antes do início da aula, sendo
+escolhido 1 (um) dentre 3 (três) temas constantes do respectivo edital de convocação.
+15.1. O tempo de duração da apresentação da Prova de Métodos Pedagógicos constará
+do edital de convocação para a referida prova.
+16. O candidato deverá:
+a) Preparar o plano de aula de todos os temas em 3 (três) vias; e
+b) No dia da Prova de Métodos Pedagógicos, antes do início da aula, entregar aos
+membros da Banca Examinadora aquele referente ao tema sorteado (ou seja, uma via
+para cada membro da Banca Examinadora).
+17. O candidato que não entregar as 3 (três) vias do plano de aula (referente ao tema
+sorteado) aos membros da Banca Examinadora ou as entregar em número insuficiente –
+ou seja, somente 1 (uma) ou 2 (duas) vias – não fará a apresentação e obterá nota 0
+(zero), sendo considerado não aprovado e, por consequência, eliminado do concurso
+público.
+18. Aos membros da Banca Examinadora, fica vedada a arguição aos candidatos nessa
+fase do certame.
+19. Fica vedado ao candidato:
+
+a) Entregar as vias do plano de aula em formato digital (ex. pen drive, e–mail etc.),
+tampouco solicitar sua impressão;
+b) Pleitear junto a unidade de ensino cópias do plano de aula, caso as tenha levado em
+número insuficiente.
+20. No dia designado para a prova, o candidato assinará a lista de presença.
+21. O candidato não poderá ausentar–se da sala ou do local de prova sem o
+acompanhamento de um fiscal.
+22. Durante a Prova de Métodos Pedagógicos, não serão permitidas quaisquer espécies
+de consulta a códigos, livros, manuais, impressos, anotações e/ou outro tipo de
+pesquisa.
+23. Durante a prova, não será permitida a utilização de protetor auricular, de boné, de
+gorro, de chapéu, de óculos de sol, de relógio (de qualquer tipo), de telefone
+celular/smartphone ou de qualquer equipamento eletrônico de comunicação ou de
+gravação de imagem, de som, ou de imagem e som pelo candidato.
+23.1. A Prova de Métodos Pedagógicos não poderá ser gravada.
+24. O candidato que estiver de posse de qualquer equipamento eletrônico deverá, antes
+do início da respectiva prova:
+a) Desligá–lo;
+b) Retirar sua bateria (se possível);
+c) Acondicioná–lo, antes do início da respectiva prova, devendo mantê–lo guardado
+durante o tempo de realização da prova;
+d) Guardar também os eventuais pertences pessoais (bonés, gorros ou similares, relógios
+de qualquer tipo, protetor auricular etc.).
+24.1. Os aparelhos eletrônicos deverão permanecer desligados, bem como seus alarmes
+desabilitados, até a saída do candidato do prédio de aplicação das provas.
+25. Será excluído deste concurso público o candidato que:
+a) Não comparecer na prova, seja qual for o motivo, não podendo ser alegada qualquer
+espécie de desconhecimento quanto a divulgação do dia, horário e local;
+b) Apresentar–se fora do local, data e/ou horário estabelecidos na respectiva
+convocação;
+c) Não apresentar o documento de identificação para a realização da prova, nos termos
+deste edital;
+d) Quando o documento de identidade do candidato não permitir sua identificação;
+
+e) Ausentar–se, durante o processo, da sala ou do local de prova sem o
+acompanhamento de um fiscal;
+f) Estiver, no local de prova, portando, após o seu início, qualquer equipamento
+eletrônico e/ou sonoro e/ou de comunicação ligados ou desligados, que não tenha
+atendido aos itens 23 e 24 deste Capítulo;
+g) Lançar meios ilícitos para a realização da prova;
+h) Estiver portando armas (de fogo ou brancas) de qualquer espécie, ainda que possua o
+respectivo porte ou autorização;
+i) Durante o processo, não atender a quaisquer das disposições estabelecidas neste
+edital;
+j) Perturbar, de qualquer modo, a ordem dos trabalhos;
+k) Agir com incorreção ou descortesia para com qualquer membro da equipe
+encarregada da aplicação da prova, direção da unidade de ensino ou autoridade
+presente;
+l) Caso esteja utilizando máscara de proteção, recusar–se a retirá–la para o
+procedimento de identificação e/ou para o procedimento de vistoria visual durante a
+prova.
+m) Recusar a ministrar a aula perante a Banca Examinadora.
+26. Não haverá segunda chamada ou repetição da prova, seja qual for o motivo alegado
+para justificar o atraso ou ausência do candidato, nem aplicação da prova fora do local,
+data e horário preestabelecidos.
+27. O candidato não poderá alegar quaisquer desconhecimentos sobre a realização da
+prova como justificativa de sua ausência.
+28. Será atribuída nota 0 (zero) na Prova de Métodos Pedagógicos ao candidato que
+recusar a ministrar a aula perante a Banca Examinadora.
+
+XI.4.1 – DA NOVA PROVA DE MÉTODOS PEDAGÓGICOS
+1. Se, em decorrência da aplicação da Prova de Métodos Pedagógicos, resultar:
+a) A não aprovação de todos os candidatos selecionados; e/ou
+b) O não comparecimento de todos os candidatos selecionados para a realização dessa
+prova.
+
+2. Caso ocorra qualquer uma das situações previstas no item anterior e ainda restarem
+candidatos não selecionados anteriormente para a Prova de Métodos Pedagógicos, tais
+candidatos serão convocados para aplicação de nova Prova de Métodos Pedagógicos.
+2.1. Será vedada a convocação de candidatos que já foram convocados anteriormente
+para a referida prova, independentemente de seu comparecimento ou resultado.
+3. A nova Prova de Métodos Pedagógicos será aplicada nas mesmas condições e
+procedimentos estabelecidos neste edital.
+4. A convocação para a nova Prova de Métodos Pedagógicos será divulgada na forma
+estabelecida no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES deste
+edital, não podendo o candidato alegar desconhecimento.
+
+XI.5 – DA PROVA DE TÍTULOS
+1. A Prova de Títulos consistirá na análise dos documentos comprobatórios referentes a
+formação acadêmica. Ela possuirá caráter exclusivamente classificatório.
+2. A Prova de Títulos será feita:
+a) Após a realização da Prova de Métodos Pedagógicos; e
+b) Antes da divulgação do resultado da Prova de Métodos Pedagógicos e Classificação
+Final.
+3. Deverão entregar os títulos todos os candidatos convocados para a Prova de Métodos
+Pedagógicos.
+4. Serão avaliados somente os títulos do candidato aprovado na Prova de Métodos
+Pedagógicos.
+5. Para a Prova de Títulos, os candidatos deverão entregar a documentação
+comprobatória, composta pela cópia impressa dos títulos, conforme especificado
+no ANEXO VII.
+5.1. Não serão aceitos protocolos dos documentos comprobatórios dos títulos elencados
+no ANEXO VII.
+5.2. Os certificados, certidões ou declarações de conclusão elencados
+no ANEXO VII deverão ser expedidos por instituição oficial de ensino, em papel
+timbrado, e conter o carimbo e a identificação da instituição e do responsável pela
+expedição do documento.
+5.3. Serão considerados os títulos concluídos pelo candidato até o término da inscrição
+(incluindo o período de reabertura, se houver).
+
+6. O candidato entregará a cópia do(s) título(s) na data prevista para a Prova de Métodos
+Pedagógicos, antes da apresentação da aula.
+6.1. Não será aceita, sob qualquer pretexto, a entrega da cópia do(s) título(s) em
+qualquer outro dia, horário e local, ou sob qualquer outra forma.
+6.2. Fica vedado ao candidato:
+a) Entregar a documentação em formato digital (ex. pen drive, e–mail etc.), tampouco
+solicitar sua impressão;
+b) Pleitear junto a unidade de ensino cópias dos títulos.
+7. O candidato que não apresentar a cópia do(s) título(s) será classificado apenas com os
+pontos obtidos na Prova Escrita e na Prova de Métodos Pedagógicos, desde que
+satisfaça a condição de aprovado.
+8. A Prova de Títulos será pontuada conforme os critérios estabelecidos
+no ANEXO VII deste edital.
+9. Todo documento que esteja em língua estrangeira deverá conter a respectiva tradução
+para o português, sendo a tradução de responsabilidade do candidato.
+10. Caberá ao candidato comprovar que os diplomas, certificados e títulos sejam
+provenientes de cursos reconhecidos, credenciados ou recomentados e, quando
+realizados no exterior, os diplomas de Mestrado e Doutorado expedidos por
+universidades estrangeiras deverão ser reconhecidos, nos termos da legislação vigente.
+11. Não será considerado para a Prova de Títulos o curso de Especialização (lato sensu),
+Mestrado e Doutorado, quando incluído no requisito para inscrição no Componente
+Curricular, descrito no ANEXO VII do deste edital.
+
+XII – DO JULGAMENTO DAS PROVAS
+XII.1 – DO JULGAMENTO DA PROVA ESCRITA
+1. A Prova Escrita terá caráter eliminatório e classificatório e obedecerá a uma escala de
+pontuação de 0 (zero) a 100 (cem) pontos, sendo que cada uma das 25 (vinte e cinco)
+questões valerá 4 (quatro) pontos cada.
+1.1. A escala de pontuação da Prova Escrita poderá ser ultrapassada aos candidatos
+pretos, pardos ou indígenas que fizerem jus à pontuação diferenciada a que se refere
+o CAPÍTULO VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA
+PRETOS, PARDOS OU INDÍGENAS.
+1.2. Não será aplicada a pontuação diferenciada ao candidato que incorrer em
+qualquer uma das situações previstas no item 22 do CAPÍTULO VII – DO SISTEMA
+DE PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU INDÍGENAS.
+
+2. Na hipótese de anulação de questão(ões), o(s) ponto(s) relativo(s) será(ão)
+atribuído(s) a todos os candidatos que prestaram a prova correspondente.
+3. Será considerado aprovado na Prova Escrita o candidato que obtiver pontuação igual
+ou superior a 50 (cinquenta), após a aplicação da PD (quando houver).
+4. Será considerado reprovado na Prova Escrita o candidato que obtiver pontuação
+inferior a 50 (cinquenta), após a aplicação da PD (quando houver).
+5. O candidato preto, pardo ou indígena que optou pela pontuação diferenciada e que
+obteve o desempenho a que alude o item 4 deste Capítulo somente será considerado
+aprovado após a aplicação da pontuação diferenciada, nos termos do CAPÍTULO VII –
+DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU
+INDÍGENAS e desde que a nota do candidato ultrapasse o mínimo exigido, após a
+aplicação da pontuação diferenciada.
+6. Serão convocados para a Prova de Métodos Pedagógicos os 5 (cinco) primeiros
+candidatos por vaga, em ordem decrescente da nota da Prova Escrita, e os que
+empatarem na 5ª (quinta) classificação.
+7. Será excluído deste concurso público o candidato que incorrer em uma das situações
+previstas no item 28 do CAPÍTULO XI.3 – DA PROVA ESCRITA.
+
+XII.2 – DO JULGAMENTO DA PROVA DE MÉTODOS PEDAGÓGICOS
+1. A Prova de Métodos Pedagógicos terá caráter eliminatório e classificatório
+e obedecerá a uma escala de pontuação de 0 (zero) a 100 (cem) pontos, conforme
+critérios e pontuações estabelecidos no ANEXO VII deste edital.
+2. A nota da Prova de Métodos Pedagógicos é a média aritmética simples das notas
+atribuídas pelos membros da Banca Examinadora, acrescida da pontuação diferenciada
+(quando houver).
+3. Considerar–se–á aprovado na Prova de Métodos Pedagógicos o candidato que obtiver
+nota igual ou superior a 50 (cinquenta) pontos.
+4. A escala de pontuação da Prova de Métodos Pedagógicos poderá ser ultrapassada aos
+candidatos pretos, pardos ou indígenas que fizerem jus à pontuação diferenciada a que
+se refere o CAPÍTULO VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA
+PARA PRETOS, PARDOS OU INDÍGENAS.
+5. Será atribuída nota 0 (zero) ao candidato que não entregar o plano de aula para Banca
+Examinadora ou recusar a ministrar a aula perante a Banca Examinadora, nos termos
+estabelecidos no CAPÍTULO XI.4 – DA PROVA DE MÉTODOS PEDAGÓGICOS.
+6. O candidato preto, pardo ou indígena que optou pela pontuação diferenciada e que
+obteve desempenho inferior ao disposto no item 3 deste Capítulo somente será
+considerado aprovado após a aplicação da pontuação diferenciada, nos termos
+
+do CAPÍTULO VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA
+PRETOS, PARDOS OU INDÍGENAS e desde que a nota do candidato ultrapasse o
+mínimo exigido, após a aplicação da pontuação diferenciada.
+6.1. Não será aplicada a pontuação diferenciada ao candidato que incorreu em
+qualquer uma das situações previstas no item 22 do CAPÍTULO VII – DO SISTEMA
+DE PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU INDÍGENAS.
+7. O candidato que não for aprovado na forma do item 3 deste Capítulo estará
+automaticamente eliminado do concurso público e não terá classificação alguma no
+certame.
+8. Será excluído deste concurso público o candidato que incorrer
+em uma das situações previstas no item 25 do CAPÍTULO XI.4 – DA PROVA DE
+MÉTODOS PEDAGÓGICOS.
+
+XII.3 – DO JULGAMENTO DA PROVA DE TÍTULOS
+1. A Prova de Títulos terá caráter exclusivamente classificatório.
+2. Serão avaliados somente os títulos do candidato aprovado na Prova de Métodos
+Pedagógicos, nos termos do item 3 do CAPÍTULO XII.2 – DO JULGAMENTO DA
+PROVA DE MÉTODOS PEDAGÓGICOS.
+3. A Prova de Títulos obedecerá a uma escala de pontuação de 0 (zero) a 30 (trinta)
+pontos, uma única vez por curso, conforme critérios e pontuações estabelecidos
+no ANEXO VII deste edital.
+3.1. A escala de pontuação da Prova de Títulos poderá ser ultrapassada aos candidatos
+pretos, pardos ou indígenas que fizerem jus à pontuação diferenciada a que se refere
+o CAPÍTULO VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA PARA
+PRETOS, PARDOS OU INDÍGENAS.
+3.2. Não será aplicada a pontuação diferenciada ao candidato que incorreu em
+qualquer uma das situações previstas no item 22 do CAPÍTULO VII – DO SISTEMA
+DE PONTUAÇÃO DIFERENCIADA PARA PRETOS, PARDOS OU INDÍGENAS.
+4. O candidato que não apresentar a cópia do(s) título(s) será classificado apenas com os
+pontos obtidos na Prova Escrita e na Prova de Métodos Pedagógicos, desde que
+satisfaça a condição de aprovado.
+5. Todo documento que esteja em língua estrangeira deverá conter a respectiva tradução
+para o português, sendo a tradução de responsabilidade do candidato.
+6. Os diplomas de Mestrado e Doutorado expedidos por instituições estrangeiras
+deverão estar reconhecidos por universidades públicas, nos termos do § 3º do artigo 48
+da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20/12/1996, e suas
+alterações); caso contrário, não serão considerados para efeito de pontuação.
+
+7. Não será considerado para a Prova de Títulos o curso de Especialização (lato sensu),
+Mestrado e Doutorado, quando incluído no requisito para inscrição no Componente
+Curricular, descrito no ANEXO III do deste edital.
+8. A análise da documentação será feita pela Banca Examinadora.
+9. Somente será analisado pela Banca Examinadora, para fins de pontuação:
+a) O título acompanhado da respectiva documentação comprobatória;
+b) O documento completo (exemplo: Diploma com FRENTE E VERSO);
+c) O documento legível.
+10. Os pontos serão computados uma única vez para cada tipo de título apresentado.
+11. Cada documento será considerado uma única vez.
+12. Os pontos que excederem o valor máximo serão desconsiderados. Não confundir
+esta limitação com a eventual aplicação da pontuação diferenciada aos candidatos
+pretos, pardos ou indígenas, nos termos deste edital.
+13. Serão considerados os títulos concluídos pelo candidato até o término da inscrição
+(incluindo o período de reabertura, se houver).
+14. Fica vedada a pontuação de qualquer título que não preencha todas as condições
+previstas neste edital.
+15. Comprovada, em qualquer tempo, irregularidade ou ilegalidade na obtenção dos
+títulos, a pontuação será anulada e, caso comprovado dolo, o candidato será eliminado
+do concurso público, sem prejuízo das sanções cabíveis.
+16. Será de inteira responsabilidade do candidato a entrega dos documentos para a
+Prova de Títulos, arcando o candidato com as consequências de eventuais erros ou
+omissões.
+17. Quando o nome do candidato for diferente do constante nos documentos entregues,
+deverá ser anexado, também, o comprovante de alteração do nome.
+18. A Banca Examinadora atribuirá uma única nota para a Prova de Títulos.
+
+XIII – DO DESEMPATE
+1. Em caso de empate de pontuação em qualquer uma das listas de classificação (nos
+termos do CAPÍTULO XIV – DA CLASSIFICAÇÃO FINAL), observar–se–á a
+seguinte ordem:
+
+a) Maior idade, dentre os candidatos com idade igual ou superior a 60 (sessenta) anos
+completos, em cumprimento à Lei nº 10.741/2003 (Estatuto da Pessoa Idosa), entre si e
+frente aos demais;
+b) Maior pontuação obtida na Prova de Métodos Pedagógicos;
+c) Maior pontuação obtida na Prova Escrita;
+d) Maior pontuação na Prova de Títulos;
+e) Tenha comprovadamente sido jurado, nos termos do disposto no artigo 440 do
+Código de Processo Penal – Decreto–Lei nº 3.689/1941, introduzido pela Lei Federal nº
+11.689/2008, direito este reconhecido para quem exerceu a função de jurado a partir da
+vigência da lei federal aqui citada, ou seja, 10/08/2008;
+f) Esteja inscrito no “Cadastro Único para Programas Sociais do Governo
+Federal” – CadÚnico;
+g) Maior idade, para os inscritos com idade inferior a 60 (sessenta) anos, ou seja, que
+tenha maior idade e até 59 anos, tomando como base a data de encerramento
+das inscrições.
+1.1. Persistindo o empate, será considerado o candidato com o menor número
+de inscrição.
+2. Para que se beneficie dos critérios de desempate constantes da alínea “e” do
+item 1 deste Capítulo, o candidato deverá:
+a) Informar, no ato da inscrição, o fato de ter exercido a função de jurado;
+b) Estar ciente de que, no ato da admissão, deverá apresentar prova documental de que
+exerceu a função de jurado.
+2.1. Para a prova documental a que se refere a alínea “b” do item 2 deste Capítulo,
+poderão ser aceitos: Certidões, declarações, atestados ou outros documentos públicos
+(original ou cópia autenticada em cartório) emitidos pelo Ministério Público, Tribunais
+de Justiça estaduais e federais do país, relativos à função de jurado, nos termos do Art.
+440 do Código de Processo Penal.
+2.2. Caso o candidato declare no ato de inscrição que já exerceu a função de jurado, se
+beneficie deste critério de desempate e não comprove documentalmente esta condição
+no ato da admissão, será eliminado do concurso público.
+3. Para que se beneficie dos critérios de desempate constantes da alínea “f” do
+item 1 deste Capítulo, o candidato deverá:
+a) Informar, no ato da inscrição, sua condição de inscrito no CadÚnico;
+b) Preencher, na ficha de inscrição, o Número de Identificação Social – NIS, atribuído
+pelo Cadastro Único para Programas do Governo Federal;
+
+c) Estar ciente de que, no ato da admissão, deverá apresentar o original da Inscrição no
+Cadastro Único para Programas Sociais do Governo Federal.
+3.1. Caso o candidato declare no ato de inscrição que possui a inscrição
+no CadÚnico, se beneficie deste critério de desempate e não comprove
+documentalmente esta condição no ato da admissão, será eliminado do concurso
+público.
+4. Para atender aos dispositivos mencionados anteriormente, a unidade de ensino se
+valerá das informações constantes da ficha de inscrição.
+
+XIV – DA CLASSIFICAÇÃO FINAL
+1. A nota final do candidato no presente concurso público, que será considerada para
+sua classificação, será aquela que resultar da média da Prova Escrita (PE) e da Prova de
+Métodos Pedagógicos (PMP), acrescida da nota da Prova de Títulos (PT).
+2. A nota final obedecerá às fórmulas na sequência abaixo:
+(PE + PMP) / 2 = média
+3. Onde:
+3.1. PE é a nota da Prova Escrita, após a aplicação da pontuação diferenciada (quando
+houver).
+3.2. PMP é a nota da Prova de Métodos Pedagógicos, após a aplicação da pontuação
+diferenciada (quando houver).
+3.3. média é a média aritmética simples das duas notas (PE e PMP).
+E
+média + PT = nota final
+4. Onde:
+4.1. média é a média aritmética simples da Prova Escrita (PE) e Prova de Métodos
+Pedagógicos (PMP).
+4.2. PT é a nota da Prova de Títulos, após a aplicação da pontuação diferenciada
+(quando houver).
+4.3. nota final é a nota final do candidato no concurso público.
+5. A escala de pontuação das provas (Prova Escrita, Prova de Métodos Pedagógicos e
+Prova de Títulos) poderá ser ultrapassada aos candidatos pretos, pardos ou indígenas
+que fizerem jus à pontuação diferenciada.
+
+5.1. Aos candidatos que fizerem jus a pontuação diferenciada (PD), a nota final desses
+candidatos em cada prova (Prova Escrita, Prova de Métodos Pedagógicos, Prova de
+Títulos) será obtida somente após a aplicação da pontuação diferenciada (PD), nos
+termos dispostos no CAPITULO VII – DO SISTEMA DE PONTUAÇÃO
+DIFERENCIADA PARA PRETOS, PARDOS OU INDÍGENAS este edital.
+6. Será considerado aprovado no presente concurso público o candidato que obtiver nota
+igual ou superior a 50 (cinquenta) pontos na Prova de Métodos Pedagógicos.
+6.1. Será considerado não aprovado no presente concurso público o candidato que
+obtiver nota inferior a 50 (cinquenta) pontos na Prova de Métodos Pedagógicos.
+7. Os critérios de julgamento da Prova Escrita, Prova de Métodos Pedagógicos e Prova
+de Títulos constam do CAPÍTULO XII.1 – DO JULGAMENTO DA PROVA
+ESCRITA, CAPÍTULO XII.2 – DO JULGAMENTO DA PROVA DE MÉTODOS
+PEDAGOGICOS e CAPÍTULO XII.3 – DO JULGAMENTO DA PROVA DE
+TÍTULOS, respectivamente.
+8. O candidato que não for aprovado na forma do item 6 deste Capítulo estará
+automaticamente eliminado do concurso público e não terá classificação alguma no
+certame.
+9. Será excluído deste concurso público o candidato que incorrer em qualquer uma das
+situações previstas no item 28 do CAPÍTULO XI.3 – DA PROVA ESCRITA e no
+item 25 do CAPÍTULO XI.4 – DA PROVA DE MÉTODOS PEDAGÓGICOS.
+10. A classificação final do concurso público constará de ato a ser divulgado na forma
+estabelecida no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES, não
+podendo ser alegada qualquer espécie de desconhecimento.
+11. Em atendimento a legislação do ensino nacional e estadual, a classificação final dos
+candidatos aprovados no concurso público será separada em duas listas de titulação:
+a) Licenciados; e
+b) Graduados.
+11.1. Para fins de convocação para admissão, os candidatos da lista de “Licenciados”
+terão preferência sobre os da lista de “Graduados”.
+12. O candidato será enquadrado em uma das listas a que se refere o item 11 deste
+Capítulo conforme o campo específico preenchido por ele em sua ficha de inscrição.
+13. Devido ao número de vagas oferecido no presente certame, não haverá aplicação da
+Lei Complementar nº 683, de 18 de setembro de 1992 (que dispõe sobre reserva, nos
+concursos públicos, de percentual de cargos e empregos para portadores de deficiência),
+no que diz respeito a reserva de vaga e lista de classificação especial.
+
+14. Os candidatos aprovados (inclusive os candidatos que concorrerem como pessoas
+com deficiência) serão classificados por ordem decrescente da pontuação final,
+respeitada a preferência a que se refere o item 11 deste Capítulo.
+15. Relacionar–se–á o candidato não aprovado pela ordem crescente do número
+de inscrição e a nota obtida na Prova de Métodos Pedagógicos.
+15.1. O candidato não aprovado não será relacionado pelo nome.
+16. Relacionar–se–á o candidato ausente pela ordem crescente do número de inscrição.
+16.1. O candidato ausente não será relacionado pelo nome.
+17. Será feita por ocasião da admissão do candidato a apresentação dos documentos
+comprobatórios relacionados:
+a) Às condições exigidas para admissão; e
+b) Aos critérios de desempate.
+18. No prazo de 5 (cinco) dias, contados da publicação da classificação final, os
+candidatos com deficiência aprovados deverão submeter–se à perícia médica para
+verificação da compatibilidade de sua deficiência com o exercício das atribuições do
+emprego público permanente de Professor de Ensino Médio e Técnico, nos termos do
+artigo 3º da Lei Complementar nº 683/1992.
+19. O Centro Paula Souza executará as providências relativas ao agendamento da
+perícia médica e dará ciência aos candidatos com deficiência quanto à data, horário e
+local de sua realização, por meio de edital de ser publicado no Diário Oficial do Estado
+de São Paulo (www.doe.sp.gov.br), informando–os em formato acessível.
+20. A perícia médica será realizada em órgão médico oficial do Estado, por especialistas
+nas áreas de deficiência de cada candidato, devendo a decisão ser publicada no prazo de
+5 (cinco) dias contados do respectivo exame.
+21. Após a realização da perícia médica e publicação da decisão, caberá ao órgão
+responsável pelo concurso público a retirada dos respectivos laudos na Diretoria de
+Perícias Médicas do Estado de São Paulo, bem como a imediata comunicação ao
+candidato com deficiência em formato acessível.
+22. Quando a perícia médica concluir pela inaptidão, o candidato terá o prazo de 5
+(cinco) dias, após a publicação do resultado, para solicitar a realização de junta
+médica pela Diretoria de Perícias Médicas do Estado de São Paulo para nova inspeção,
+da qual poderá participar profissional indicado pelo interessado, utilizando–se de
+requerimento disponível em www.planejamento.sp.gov.br – Perícias Médicas – DPME
+> Ingresso – Pré–avaliação – pessoa com deficiência > FORMULÁRIO –
+REQUISIÇÃO DE PRÉ–AVALIAÇÃO – RECURSO.
+23. O pedido poderá ser enviado via Correios com Aviso de Recebimento para o setor
+de atendimento do DPME situado à Avenida Prefeito Passos, s/n – Várzea do Carmo –
+
+São Paulo – SP – CEP 01517–020 ou protocolado pessoalmente no referido local no
+horário das 07h00 às 16h00.
+24. A junta médica deverá apresentar conclusão no prazo de 5 (cinco) dias contados da
+realização do exame.
+25. Não caberá qualquer recurso da decisão proferida pela junta médica.
+26. Após a realização da avaliação pela junta médica e publicação da decisão, caberá ao
+órgão responsável pelo concurso público a retirada dos respectivos laudos no DPME,
+bem como a imediata comunicação ao candidato com deficiência em formato acessível.
+27. Verificada a incompatibilidade entre a deficiência e as atribuições do emprego
+público permanente de Professor de Ensino Médio e Técnico, o candidato será
+eliminado do certame.
+
+XV – DOS RECURSOS
+1. Caberá recurso contra:
+a) Cada uma das etapas do concurso público;
+b) O indeferimento de inscrição;
+c) O resultado das provas;
+d) A classificação final.
+1.1. Não caberá recurso contra os atos a partir da homologação do certame.
+2. O recurso a que se refere este Capítulo não deve ser confundido com o pedido de
+Reconsideração que pode ser solicitado pelo candidato preto, pardo ou
+indígena eliminado deste certame em virtude da constatação de falsidade de sua
+autodeclaração (após o procedimento de Aferição da Veracidade da Autodeclaração),
+cujos procedimentos constam do CAPÍTULO XVI – RECONSIDERAÇÃO DE PPI.
+3. O prazo para interposição de recurso será de 3 (três) dias úteis, contados do 1º dia útil
+subsequente a data da publicação oficial em DOE.
+4. Admitir–se–á um único recurso por candidato para cada etapa do concurso público,
+desde que devidamente fundamentado.
+4.1. Entende–se por “único recurso” o preenchimento de somente um Formulário de
+Solicitação de Recurso, nos termos do item 9 deste Capítulo.
+4.2. Caso o recurso aborde mais de uma questão ou item da prova, ele deverá ser feito
+através do preenchimento do mesmo formulário.
+
+5. O recurso terá efeito suspensivo, ou seja, a interposição de recursos obsta o regular
+andamento das demais fases deste concurso público.
+6. Na elaboração do recurso, o candidato deverá:
+a) Relatar sucintamente o fato motivador do recurso, com o devido embasamento;
+b) Utilizar termos adequados e respeitosos, que apontem as circunstâncias que o
+justifiquem;
+c) Apresentar a questão ou item com argumentação lógica, fundamentada e consistente.
+7. Somente serão apreciados os recursos interpostos dentro do prazo previsto neste
+Capítulo.
+8. Não serão aceitos os recursos:
+a) Interpostos por outros meios – como entrega presencial, via postal, fax, telegrama
+etc.;
+b) Fora do prazo;
+c) Que não atendam a forma especificada neste Capítulo.
+9. Para solicitar o recurso, o candidato deverá:
+a) Acessar o site https://urhsistemas.cps.sp.gov.br/dgsdad/selecaopublica/;
+b) Localizar o título CONCURSO PÚBLICO PARA DOCENTES e clicar
+em EM ANDAMENTO (ou clicar em ETECs > CONCURSO PÚBL. DOCENTE > EM
+ANDAMENTO);
+c) Na próxima tela, localizar o edital do concurso público em que efetuou inscrição;
+d) Fazer o download do Formulário de Solicitação de Recurso e preenchê–lo com as
+informações pertinentes;
+e) Encaminhar o formulário preenchido para o e–mail e012adm@cps.sp.gov.br. No
+assunto do e–mail deverá constar expressamente: RECURSO – CONCURSO
+PÚBLICO DOCENTE EDITAL Nº 012/01/2026.
+10. O Formulário de Solicitação de Recurso será o único meio válido e aceito para a
+interposição de recurso.
+11. Será liminarmente indeferido:
+a) O recurso interposto em desacordo com os ditames deste edital;
+b) O recurso interposto fora da forma e dos prazos estipulados neste edital;
+
+c) O recurso que não apresentar fundamentação e embasamento.
+12. O recurso será dirigido ao Superintendente da unidade de ensino, a quem competirá
+a análise, no prazo de até 15 (quinze) dias corridos, contados a partir do dia útil
+subsequente a data de seu recebimento.
+12.1. Na ocorrência da situação prevista no item 7 do CAPÍTULO I – DAS
+DISPOSIÇÕES PRELIMINARES deste edital, a unidade de ensino sede do certame
+remeterá o recurso para a unidade de ensino que assumir a responsabilidade pela
+condução do concurso público.
+12.2. O Superintendente poderá, a seu critério, obter parecer da Comissão Especial e/ou
+da Banca Examinadora, para obtenção de subsídios à sua decisão.
+12.3. Na hipótese dos membros da Comissão Especial ou da Banca Examinadora
+estiverem impedidos temporariamente de emitir parecer (ex. fruição de férias ou período
+de recesso escolar), o prazo a que se refere o item 12 deste Capítulo poderá
+ser ampliado, a critério do Superintendente da unidade de ensino.
+13. Não caberão recursos adicionais aos recursos interpostos,
+sendo o Superintendente da unidade de ensino soberano em suas decisões. Ou seja, não
+serão aceitos pedidos de revisão de recurso e/ou recurso de recurso e/ou pedido de
+reconsideração.
+14. Somente serão considerados os recursos interpostos para a fase a que se referem e
+no prazo estipulado, não sendo aceitos, portanto, recursos interpostos em prazo
+destinado a evento diverso daquele em andamento.
+15. Em função dos recursos interpostos e das decisões emanadas, poderá haver
+alterações nas publicações das etapas do concurso público, antes de sua homologação.
+16. Na existência de recursos que inviabilizem a realização de uma das provas do
+certame na data fixada, caberá à unidade de ensino responsável pelo concurso
+público estabelecer nova data, após a resolução definitiva dos recursos interpostos.
+17. No caso de recurso interposto dentro das especificações deste edital, este poderá,
+eventualmente, alterar a nota/classificação inicial obtida pelo candidato
+para uma nota/classificação superior ou inferior.
+18. O candidato que não interpuser recurso no respectivo prazo e na forma mencionados
+neste edital será responsável pelas consequências advindas de sua omissão.
+19. A decisão do deferimento ou indeferimento do recurso se dará através de ato
+divulgado na forma do item 3 do CAPÍTULO I – DAS DISPOSIÇÕES
+PRELIMINARES deste edital, não podendo ser alegada qualquer espécie de
+desconhecimento.
+20. Na hipótese de anulação de questão(ões), o(s) ponto(s) relativo(s) será(ão)
+atribuído(s) a todos os candidatos que prestaram a prova correspondente.
+
+21. No caso de indeferimento do recurso, a íntegra de sua resposta encontrar–se–á
+disponível na unidade de ensino, podendo o candidato requerê–la mediante solicitação
+(formalizada através do e–mail da unidade de ensino informado neste edital), para
+ciência.
+
+XVI – RECONSIDERAÇÃO DE PPI
+1. Após o procedimento de aferição da veracidade da autodeclaração a que
+se refere o CAPÍTULO VII – DO SISTEMA DE PONTUAÇÃO DIFERENCIADA
+PARA PRETOS, PARDOS OU INDÍGENAS, ao candidato que vier a ser eliminado
+do concurso público em virtude da constatação de falsidade de sua autodeclaração é
+facultado, no prazo de 7 (sete) dias corridos, opor pedido de reconsideração, dirigido à
+Comissão Especial de Concurso Público, que poderá consultar, se for o caso,
+a respectiva Coordenadoria (Coordenadoria de Políticas para a População Negra
+ou a Coordenadoria de Políticas para os Povos Indígenas) para decidir, em
+última instância, a respeito do direito do candidato a fazer jus ao sistema de pontuação
+diferenciada.
+1.1. O prazo para interposição do pedido de reconsideração iniciar–se–á no dia útil
+subsequente à data de publicação em DOE do Resultado da Aferição da
+Autodeclaração.
+2. O pedido de reconsideração deverá ser encaminhado somente para o endereço
+eletrônico: e012adm@cps.sp.gov.br, devendo constar expressamente no assunto do e–
+mail: RECONSIDERAÇÃO – CONCURSO PÚBLICO DOCENTE EDITAL
+Nº 012/01/2026.
+3. As decisões relativas à reconsideração constarão de ato a ser divulgado na forma
+estabelecida no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES, não
+podendo ser alegada qualquer espécie de desconhecimento.
+3.1. Da decisão da reconsideração, não caberá recurso.
+4. Não será considerado o pedido de reconsideração interposto fora dos padrões, dos
+meios ou do prazo estabelecidos no presente Capítulo.
+5. Se mantida a falsidade da autodeclaração após a publicação do resultado da
+reconsideração, o candidato será eliminado deste concurso público.
+6. Se deferido o pedido de reconsideração, com a manutenção da participação do
+candidato no certame, poderá haver alterações nas publicações das etapas constantes
+do concurso público.
+7. Constatada a falsidade da autodeclaração, o candidato será eliminado deste certame,
+conforme previsto no artigo 4º, parágrafo único, da Lei Complementar nº 1.259/2015.
+
+XVII – DA HOMOLOGAÇÃO OU ENCERRAMENTO
+1. A homologação do concurso público dar–se–á por ato do Superintendente da unidade
+de ensino, após a realização e conclusão de todas as etapas do certame e na existência
+de candidatos aprovados.
+2. O concurso público terá validade de 2 (dois) anos, contados a partir da data da
+publicação de sua homologação em DOE.
+2.1. O prazo de validade do certame poderá ser prorrogado por igual período, a
+critério do Superintendente da unidade de ensino.
+3. O encerramento do concurso público dar–se–á por ato do Superintendente da unidade
+de ensino.
+4. O concurso público será encerrado quando:
+a) Não houver candidatos inscritos;
+b) Todas as inscrições forem indeferidas;
+c) Nenhum candidato comparecer na Prova Escrita;
+d) Nenhum candidato pontuar na Prova Escrita;
+e) Nenhum candidato comparecer na Prova de Métodos Pedagógicos (e não houver
+candidatos a serem convocados);
+f) Não houver candidatos aprovados.
+5. A homologação ou encerramento do certame serão divulgados na forma estabelecida
+no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES deste edital, não
+podendo o candidato alegar desconhecimento.
+
+XVIII – DA CONVOCAÇÃO
+1. Após a publicação da homologação do concurso público, o Superintendente da
+unidade de ensino convocará o candidato aprovado, para manifestação quanto ao aceite
+do emprego e das aulas, observado o número de vaga(s) oferecida(s) no certame.
+2. Os candidatos aprovados excedentes à quantidade de vagas disponíveis aberta no
+concurso público não terão contratação garantida por conta do próprio processo.
+3. Os candidatos aprovados somente poderão ser convocados durante o prazo de
+validade do certame, conforme item 2 do CAPÍTULO XVII – DA HOMOLOGAÇÃO
+OU ENCERRAMENTO.
+
+4. A convocação dos candidatos aprovados obedecerá a ordem da classificação final e
+será feita pelas listas de titulação: Licenciados ou Graduados.
+4.1. Para fins de convocação para admissão, os candidatos da lista
+de “Licenciados” terão preferência sobre os da lista de “Graduados”.
+4.2. O candidato será enquadrado na lista de “Licenciados” ou “Graduados” conforme o
+campo específico selecionado por ele na ficha de inscrição.
+4.3. Não haverá aceite parcial das aulas. O candidato que aceitar as aulas deverá fazê–lo
+com todas as aulas oferecidas no respectivo Edital de Convocação.
+5. As convocações serão divulgadas na forma estabelecida no item 3 do CAPÍTULO I –
+DAS DISPOSIÇÕES PRELIMINARES deste edital, não podendo o candidato alegar
+desconhecimento.
+5.1. Além da divulgação mencionada no item anterior, o candidato será avisado de sua
+convocação através do e–mail preenchido por ele na ficha de inscrição deste certame.
+6. O edital de convocação será providenciado pela unidade de ensino detentora do
+certame.
+7. O candidato terá exaurido os direitos decorrentes da sua habilitação no presente
+concurso público quando:
+a) Não atender a convocação, ou seja, deixar de comparecer na data, horário e local
+estabelecidos na convocação, seja qual for o motivo alegado;
+b) Recusar o emprego (e as aulas oferecidas);
+c) Não comprovar possuir o requisito de titulação para o emprego e para
+o Componente Curricular objeto da convocação;
+d) Não entregar, no prazo de 7 dias úteis (contados da data de aceite das aulas), toda a
+documentação exigida para formalizar a admissão;
+e) Deixar de entrar em exercício no prazo estipulado pela unidade de ensino;
+f) Não comprovar possuir qualquer uma das condições listadas no
+item 1 do CAPÍTULO IV – DAS CONDIÇÕES, deste edital;
+g) Não aceitar as condições estabelecidas para o exercício do emprego.
+7.1. O candidato que se enquadrar nas hipóteses referidas nas alíneas "c", "d", "e" e "f"
+do item 7 do presente Capítulo terá sua inscrição tornada insubsistente.
+7.2. A insubsistência da inscrição a que se refere o item anterior será divulgada na
+forma do item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES deste
+edital, não podendo o candidato alegar desconhecimento.
+
+8. O candidato que, após ter aceitado as aulas, desistir de entrar em exercício, deverá
+elaborar, assinar e entregar na unidade de ensino sede da convocação uma carta de
+desistência.
+8.1. Alternativamente, o candidato poderá enviar a desistência por e–mail, desde que
+utilize o mesmo e–mail preenchido no ato da inscrição.
+8.2. Para fins de desistência por e–mail, o candidato deverá encaminhar e–mail
+para e012adm@cps.sp.gov.br, com o assunto: DESISTÊNCIA – CONCURSO
+PÚBLICO DOCENTE Nº 012/01/2026.
+8.3. No caso de desistência formal da admissão, poderá prosseguir–se a convocação dos
+demais candidatos habilitados, obedecendo rigorosamente à ordem de classificação,
+observado o número de vaga(s).
+9. O candidato convocado poderá ser representado por procurador constituído, desde
+que o procurador entregue, no ato da manifestação para o aceite do emprego:
+a) Mandato com firma reconhecida;
+b) Cópia do documento de identificação do candidato; e
+c) Cópia do documento de identificação do procurador.
+9.1. Na ausência de qualquer um dos documentos a que se refere o item anterior, o
+procurador não poderá representar o candidato na manifestação para aceite do emprego.
+9.2. O candidato assumirá as consequências de eventuais erros cometidos por seu
+procurador.
+10. No dia da convocação, o candidato convocado terá até o horário de comparecimento
+(constante do respectivo Edital de Convocação) para adentrar a unidade de ensino, não
+havendo período de tolerância.
+10.1. O candidato convocado que comparecer após o horário estabelecido no Edital de
+Convocação não poderá se manifestar quanto ao aceite do emprego, sendo considerado
+ausente.
+11. Havendo necessidade e conveniência da Administração Pública, os candidatos
+poderão ser convocados para aceite do emprego em unidades de ensino diversas
+daquelas para as quais se inscreveram.
+11.1. Tal informação constará do respectivo Edital de Convocação.
+11.2. A convocação a que se refere o item 11 deste Capítulo:
+a) Será opcional e a critério dos Superintendentes das unidades de ensino envolvidas;
+b) Também poderá se dar entre a unidade de ensino e sua Classe Descentralizada.
+
+12. Na convocação a que se referem o item 11 deste Capítulo, o candidato não perderá o
+direito a nova convocação na unidade de ensino em que foi aprovado quando:
+a) Não comparecer na data prevista para a manifestação; ou
+b) Recusar as aulas oferecidas.
+13. O candidato que vier a ser admitido nas condições a que aludem o item 11 deste
+Capítulo, por ter exercido o direito decorrente da habilitação no concurso público, não
+poderá beneficiar–se de uma nova convocação neste certame.
+14. O candidato admitido, na ocorrência de aulas livres e/ou em substituição, poderá
+ampliar a carga horária, respeitadas as disposições das normas internas de atribuição de
+aulas e do Catálogo de Requisitos de Titulação para a Docência.
+15. O início do exercício é condicionado:
+a) À entrega do Atestado de Saúde Ocupacional (ASO), atestando que o candidato se
+encontra apto para o trabalho;
+b) A publicação em DOE da Portaria de Admissão, após o cumprimento das exigências
+de documentações previstas neste edital, as que declarou possuir à época da inscrição e,
+ainda, aquelas solicitadas pelo órgão administrativo da unidade de ensino, e que
+constitui o ANEXO V deste edital;
+c) A publicação em DOE do Ato Decisório, caso o candidato encontre–se em
+acumulação remunerada de cargos, nos termos do inciso XVI do artigo 37 da
+Constituição Federal.
+16. O candidato, no ato da entrega da documentação para formalizar a admissão,
+receberá da unidade de ensino instruções para submeter–se ao exame médico
+admissional.
+16.1. O exame médico admissional deverá ser realizado antes do início do exercício, em
+clínica ou médico conveniado, mediante agendamento efetuado pela unidade de ensino.
+16.2. O candidato que não comparecer ao exame médico admissional, não o realizar ou
+não for considerado apto terá exaurido todos os direitos da sua habilitação no concurso
+público.
+16.3. Durante a realização do exame médico admissional, poderão ser solicitados
+exames complementares, se julgado necessário.
+17. Para a adoção dos procedimentos descritos no presente Capítulo, a unidade de
+ensino deverá observar as normas internas de atribuição de aulas.
+18. Ao candidato aprovado no concurso público que mantenha vínculo empregatício
+com o Ceeteps, mediante preenchimento da função ou emprego público permanente de
+Professor de Ensino Médio e Técnico em uma Etec, terá:
+
+a) O contrato de trabalho alterado para indeterminado, quando for por tempo
+determinado;
+b) Ampliação de carga horária, quando for ocupante de emprego público permanente.
+19. O candidato admitido assinará contrato de experiência, de 90 (noventa) dias, na
+forma disposta na CLT.
+
+XIX – DAS DISPOSIÇÕES FINAIS
+1. O ato de inscrição do candidato implicará o conhecimento e a aceitação das normas e
+condições estabelecidas neste edital, em relação às quais não poderá alegar
+desconhecimento.
+2. Ao efetuar inscrição, o candidato não se opõe ao tratamento e processamento dos seus
+dados pessoais, sensíveis ou não, fornecidos durante a inscrição e ao longo do concurso
+público, a fim de possibilitar a efetiva execução do certame com a aplicação dos
+critérios de avaliação e seleção, incluindo a divulgação de seus nomes, números
+de inscrição, CPF (anonimizado parcialmente, com a divulgação dos dois primeiros e
+dois últimos dígitos) e notas, em observância aos princípios da publicidade e da
+transparência que regem a Administração Pública e nos termos da Lei nº 13.709, de 14
+de agosto de 2018, e alterações posteriores.
+2.1. Neste sentido, não caberão reclamações posteriores relativas à divulgação dos
+dados, ficando o candidato ciente de que as informações deste certame possivelmente
+poderão ser encontradas na internet, por meio de mecanismos de busca.
+3. Na hipótese de ocorrência do disposto no item 7 do CAPÍTULO I – DAS
+DISPOSIÇÕES PRELIMINARES deste edital:
+a) A designação da nova Superintendência da unidade de ensino responsável pelo
+certame será divulgada nos meios informados no item 3 do CAPÍTULO I – DAS
+DISPOSIÇÕES PRELIMINARES deste edital;
+b) A Comissão Especial de Concurso Público será alterada;
+c) A Banca Examinadora será alterada;
+d) As provas ocorrerão na unidade de ensino designada.
+3.1. Na hipótese da realização das provas ocorrerem na unidade de ensino
+designada, o Centro Estadual de Educação Tecnológica Paula Souza se exime de
+despesas decorrentes de viagens e estadas dos candidatos para comparecimento a
+qualquer das fases deste concurso público, bem como da responsabilidade sobre
+material e/ou documento eventualmente esquecidos nos locais de prova.
+4. Os itens deste edital poderão sofrer eventuais retificações, atualizações ou
+acréscimos, enquanto não consumada a providência ou evento que lhes disser respeito
+
+ou circunstância que será mencionada em edital ou aviso a ser publicado na forma
+estabelecida neste edital, não podendo ser alegada qualquer espécie de
+desconhecimento.
+5. O candidato tem a responsabilidade de acompanhar as publicações de todos os atos,
+editais e comunicados referentes ao concurso público, divulgados nos meios
+informados no item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES, deste
+edital. No entanto, a informação oficial é a publicação no DOE, não podendo o
+candidato alegar desconhecimento.
+6. A divulgação dos editais do concurso público em outros meios que não os
+especificados neste edital não terá caráter oficial, sendo meramente informativa.
+6.1. A comunicação por outras formas (e–mail, ligação telefônica, mensagem via
+aplicativo de celular), quando ocorrer, será mera cortesia da unidade de ensino sede da
+convocação.
+6.2. A exceção ao item anterior dar–se–á em relação ao e–mail enviado ao candidato
+pela unidade de ensino, avisando–o de sua convocação para admissão,
+conforme item 5.1 do CAPÍTULO XVIII – DA CONVOCAÇÃO.
+7. É responsabilidade do candidato a veracidade das informações e a exatidão das
+declarações e regularidade de documentos.
+8. O Centro Paula Souza não se responsabilizará por eventuais prejuízos ao candidato
+decorrentes de:
+a) Endereço eletrônico (e–mail) não informado na ficha de inscrição;
+b) Endereço eletrônico informado que esteja incompleto, incorreto ou não atualizado
+pelo candidato;
+c) Problemas no provedor de acesso do candidato, como caixa de correio eletrônico
+cheia, filtros anti–spam, eventuais truncamentos ou qualquer outro problema de ordem
+técnica.
+9. O candidato deverá manter ativo o e–mail cadastrado no ato da inscrição, durante
+toda a vigência deste concurso público.
+10. Não será fornecida informação via telefone no que se refere a resultados de notas de
+provas, títulos e classificação final.
+11. A inexatidão das declarações ou irregularidades de documentações, ainda que
+verificadas posteriormente à homologação do certame, eliminará o candidato,
+anulando–se todos os atos decorrentes da inscrição.
+12. Todas as convocações e resultados serão divulgados na forma estabelecida no
+item 3 do CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES deste edital, com
+exceção daquelas referentes ao exame médico admissional.
+
+13. Após a confirmação da inscrição, os dados pessoais poderão ser
+alterados, atualizados ou corrigidos por ocasião da celebração do contrato, se
+necessário.
+13.1. As correções das informações pessoais preenchidas pelo candidato
+na ficha de inscrição, após a homologação do concurso público, deverão ser
+comunicadas pelo candidato à unidade detentora do certame, na forma estabelecida
+no CAPÍTULO V – DAS INSCRIÇÕES deste edital.
+14. Não caberá ao candidato qualquer reclamação caso não seja possível convocá–lo por
+falta de atualização cadastral.
+15. Caberá ao candidato comprovar que os diplomas, certificados e títulos sejam
+provenientes de cursos reconhecidos, credenciados ou recomentados e, quando
+realizados no exterior, os diplomas de graduação, mestrado ou doutorado expedidos por
+universidades estrangeiras deverão ser revalidados ou reconhecidos, nos termos da
+legislação vigente.
+16. A Comissão Especial de Concurso Público, bem como o Superintendente
+da unidade de ensino onde o candidato será admitido poderão, a qualquer momento,
+solicitar ao candidato esclarecimento ou informações sobre os documentos relativos a
+este edital.
+17. Em hipótese alguma será devolvido o valor pago pela inscrição, salvo em caso de
+cancelamento do presente concurso.
+18. O Centro Estadual de Educação Tecnológica Paula Souza se exime de despesas
+decorrentes de viagens e estadas dos candidatos para comparecimento a qualquer das
+fases deste concurso público, bem como da responsabilidade sobre material e/ou
+documento eventualmente esquecidos nos locais de prova.
+19. Motivarão a eliminação do candidato deste concurso público, sem prejuízo das
+sanções penais cabíveis, a burla ou tentativa de burla a qualquer das normas definidas
+neste edital e/ou nas instruções, bem como o tratamento incorreto e/ou descortês a
+qualquer pessoa envolvida na aplicação das provas.
+20. Sem prejuízo das sanções criminais cabíveis, a qualquer tempo, o Centro Paula
+Souza poderá anular a inscrição, prova ou admissão.
+21. O candidato será considerado desistente e excluído deste concurso público quando
+não comparecer às convocações nas datas estabelecidas ou manifestar sua desistência
+por escrito.
+22. Durante a realização das provas e/ou procedimentos deste concurso público, não
+será permitida a utilização de qualquer tipo de aparelho que realiza a gravação de
+imagem, de som, ou de imagem e som pelo candidato, pelos seus familiares ou por
+quaisquer outros estranhos a este concurso público.
+23. As ocorrências não previstas neste edital, os casos omissos e duvidosos serão
+resolvidos, em caráter irrecorrível, pela Superintendência da unidade de ensino
+
+ou pela Coordenadoria Geral de Gestão de Pessoas (CGGP) do Centro Paula Souza, no
+que a cada uma couber.
+24. O Centro Estadual de Educação Tecnológica Paula Souza não se responsabilizará
+por eventuais prejuízos aos candidatos decorrentes de problemas no provedor de acesso
+dos candidatos, como caixa de correio eletrônico cheia, filtros anti–spam, falhas de
+comunicação, congestionamento das linhas de comunicação, falta de energia elétrica ou
+qualquer outro problema de ordem técnica.
+25. O Centro Estatual de Educação Tecnológica Paula Souza não se responsabiliza por
+apostilas, cursos ou quaisquer outras publicações ou divulgações referentes a este
+certame.
+26. O Cronograma que constitui o ANEXO I deste edital é meramente informativo,
+podendo ser alterado a qualquer momento.
+
+– Fazem parte deste Edital:
+ANEXO I – Cronograma
+ANEXO II – Atribuições do Emprego Público Permanente de Professor de Ensino
+Médio e Técnico
+ANEXO III – Requisitos do Emprego e de Titulação
+ANEXO IV – Ajudas Técnicas e Condições Específicas (Candidatos com Deficiência)
+ANEXO V – Documentação para Admissão
+ANEXO VI – Programa da Prova Escrita
+ANEXO VII – Critérios e Pontuações
+
+ANEXO I – CRONOGRAMA
+Este cronograma é meramente informativo e poderá ser alterado a qualquer
+momento.
+
+A. Período de recebimento dos pedidos de redução ou isenção da taxa
+de inscrição: 23/03/2026 a 25/03/2026
+
+B. Período provável para divulgação do resultado dos pedidos de redução ou isenção da
+taxa de inscrição: 26/03/2026 a 30/03/2026
+C. Período de inscrições: 26/03/2026 a 09/04/2026
+D. Período provável da divulgação em DOE do Edital de Deferimento e Indeferimento
+de Inscrições e Convocação para a Prova Escrita: 10/04/2026 a 30/04/2026
+E. Período provável para realização da Prova Escrita: 17/04/2026 a 07/05/2026
+F. Período provável da divulgação em DOE do Edital de Resultado da Prova
+Escrita: 18/04/2026 a 11/05/2026
+G. Período provável da divulgação em DOE do Edital de Resultado da Aferição da
+Veracidade da Autodeclaração e Convocação para a Prova de Métodos
+Pedagógicos: 19/04/2026 a 12/05/2026
+H. Período provável para realização da Prova de Métodos Pedagógicos: 24/04/2026 a
+14/05/2026
+I. Período provável da divulgação em DOE do Edital de Resultado da Prova de Métodos
+Pedagógicos, Prova de Títulos e Classificação Final: 25/04/2026 a 18/05/2026
+J. Período provável da divulgação em DOE do despacho do Superintendente da unidade
+de ensino homologando o Concurso Público: 28/04/2026 a 28/05/2026
+K. Período provável da publicação em DOE de Edital de Convocação: 30/04/2026 a
+30/05/2026
+– O candidato que não concordar com o indeferimento do pedido de redução ou isenção
+da taxa de inscrição poderá interpor recurso, nos termos do CAPÍTULO V.1 – DA
+REDUÇÃO OU ISENÇÃO DA TAXA DE INSCRIÇÃO.
+– Ao candidato autodeclarado preto, pardo ou indígena que vier a ser eliminado do
+concurso público em virtude da constatação de falsidade de sua autodeclaração é
+facultado opor pedido de reconsideração, nos termos do CAPÍTULO XVI –
+RECONSIDERAÇÃO DE PPI.
+– Os prazos e procedimentos para interposição dos demais recursos encontram–se
+dispostos no CAPÍTULO XV – DOS RECURSOS do presente edital.
+
+ANEXO II – ATRIBUIÇÕES DO EMPREGO PÚBLICO PERMANENTE DE
+PROFESSOR DE ENSINO MÉDIO E TÉCNICO
+(ART. 104 DO REGIMENTO COMUM DAS ESCOLAS TÉCNICAS
+ESTADUAIS – ETECS)
+1. Responder pela aprendizagem dos alunos;
+
+2. Responder pelos assuntos referentes ao aproveitamento dos alunos;
+3. Colaborar nos assuntos referentes à conduta dos alunos;
+4. Estabelecer estratégias de recuperação contínua para alunos de menor rendimento e
+dar ciência dela aos mesmos ou a seus responsáveis legais se menores;
+5. Cumprir integralmente os dias letivos e as horas–aula estabelecidas pela legislação e
+pela escola;
+6. Participar dos períodos dedicados ao planejamento, à avaliação e ao desenvolvimento
+profissional;
+7. Elaborar e cumprir o Plano de Trabalho Docente, conforme o Projeto Político
+Pedagógico da ETEC, o Projeto Político do Curso (PPC), as orientações e prazos
+estabelecidos pelo CEETEPS;
+8. Informar aos alunos, no início do período letivo, sobre o Plano de Trabalho Docente,
+apresentando as competências, habilidades, metodologia, critérios de avaliação;
+9. Preparar as aulas e material didático de apoio, bem como as atividades de
+recuperação contínua;
+10. Atender às orientações dos responsáveis pela administração da ETEC, previstas no
+artigo 19 deste Regimento, nos assuntos referentes à análise, planejamento,
+programação, avaliação, recuperação e outros de interesse da escola;
+11. Manter em dia os seus registros escolares e cumprir os prazos fixados para
+encaminhamento dos resultados parciais e finais, entrega do Plano de Trabalho Docente
+e demais documentos solicitados;
+12. Colaborar com as atividades de articulação da ETEC com as famílias e a
+comunidade;
+13. Comparecer às solenidades e reuniões de finalidade pedagógica ou administrativa,
+dos órgãos coletivos e das instituições auxiliares de que fizer parte;
+14. Estabelecer com alunos, colegas e servidores um clima favorável à ação educativa e
+em harmonia com as diretrizes gerais fixadas pela ETEC;
+15. Zelar e conservar os materiais, as instalações e os equipamentos de trabalho que
+estão sob sua guarda ou utilização;
+16. Trajar–se adequadamente em qualquer dependência da escola, de modo a manter–se
+o respeito mútuo e a atender às normas de Higiene e Segurança pessoal e coletiva;
+17. Cumprir o REDEPS, bem como o Estatuto dos Servidores do CEETEPS.
+
+ANEXO III – REQUISITOS DO EMPREGO E DE TITULAÇÃO
+
+1) REQUISITOS DO EMPREGO PÚBLICO PERMANENTE DE PROFESSOR
+DE ENSINO MÉDIO E TÉCNICO
+
+1.1) Para os Componentes Curriculares da Base Nacional Comum e Parte
+Diversificada do Ensino Médio:
+
+1.1.1) Licenciado
+– Para ser enquadrado na titulação “licenciado”, o candidato deve ser portador de:
+1.1.1.a) Licenciatura prevista nos requisitos de titulação, conforme item 2 deste Anexo;
+OU
+1.1.1.b) Licenciatura equivalente* prevista nos requisitos de titulação, conforme
+item 2 deste Anexo.
+* Deve estar acompanhado do diploma de curso de bacharelado ou de tecnologia de
+nível superior que permitiu a formação docente.
+
+1.2) Para os Componentes Curriculares da Formação Profissional do Ensino
+Médio e/ou Educação Profissional Técnica de Nível Médio:
+
+1.2.1) Licenciado
+– Para ser enquadrado na titulação “licenciado”, o candidato deve ser portador de:
+1.2.1.a) Licenciatura prevista nos requisitos de titulação, conforme item 2 deste Anexo;
+OU
+1.2.1.b) Licenciatura em cursos superiores de formação de professores de disciplinas
+especializadas no ensino de 2º grau, na forma prevista pela Portaria Ministerial BSB nº
+432 de 19, publicada a 20/07/1971, Esquemas I e II, sendo:
+– Esquema I: acompanhado do diploma do curso de bacharelado ou de tecnologia de
+nível superior, de acordo com o relacionado na titulação graduado,
+em Componente Curricular em que vier a se inscrever.
+
+– Esquema II: acompanhado do diploma de técnico de nível médio no curso/área do
+componente curricular, relacionado na titulação licenciado, em Componente Curricular
+em que vier a se inscrever.
+OU
+1.2.1.c) Licenciatura equivalente*, obtida em cursos regulares de programas especiais.
+– Legislação: nos termos previstos pelo Conselho Nacional de Educação, na Resolução
+CNE/CEB nº 2 de 26, publicada no DOU de 27/06/1997, ou na Resolução CNE/CP nº
+2, de 01, publicada no DOU de 02/07/2015, na Resolução CNE/CP nº 2, de 20/12/2019,
+republicada no DOU de 10/02/2020, ou, ainda, na Resolução CNE/CP nº 4/2024, de
+29/05/2024, publicada no DOU de 03/06/2024.
+* Deve estar acompanhado do diploma de curso de bacharelado ou de tecnologia de
+nível superior, de acordo com o relacionado na titulação graduado,
+em Componente Curricular em que vier a se inscrever.
+OU
+1.2.1.d) Licenciatura equivalente*, obtida em cursos regulares de programas especiais.
+Legislação: nos termos previstos pelo Conselho Estadual de Educação de São Paulo, na
+Deliberação CEE nº 10/99, publicada no DOE de 08/01/2000.
+* Deve estar acompanhado do diploma do curso de bacharelado ou de tecnologia de
+nível superior, de acordo com o relacionado na titulação graduado,
+em Componente Curricular em que vier a se inscrever.
+
+ATENÇÃO 1: nas licenciaturas equivalentes, os cursos de bacharelado ou de
+tecnologia de nível superior que as acompanham devem constar do rol de titulações
+constante do item 2 deste Anexo.
+ATENÇÃO 2: para fins de enquadramento na condição de Licenciado, não será
+considerada a licenciatura obtida em cursos diferentes daqueles relacionados no
+item 2 deste Anexo.
+
+1.2.2) Graduado
+– Para ser enquadrado na titulação “graduado”, o candidato deve ser portador de:
+1.2.2.a) Graduação superior de bacharelado ou de tecnologia de nível superior desde
+que previsto no requisito, em Componente Curricular em que se inscrever.
+
+2) REQUISITOS DE TITULAÇÃO
+
+Para ministrar aulas no Componente Curricular oferecido neste edital, o candidato deve
+possuir uma das titulações listadas a seguir:
+5046 – Programação Web I(DESENVOLVIMENTO DE SISTEMAS INTEGRADO
+AO ENSINO MÉDIO (MTEC – PROGRAMA NOVOTEC
+INTEGRADO)): Administração de Sistemas de Informação; Análise de Sistemas;
+Análise de Sistemas Administrativos em Processamento de Dados; Análise de Sistemas
+de Informação; Análise de Sistemas e Tecnologia da Informação; Análise de Sistemas e
+Tecnologia da Informação – Habilitação em Desenvolvimento de Sistemas; Análise de
+Sistemas e Tecnologia da Informação – Habilitação em Gerenciamento de Sistemas e
+Tecnologias; Análise de Sistemas Informativos em Processamento de Dados; Análise e
+Desenvolvimento de Sistemas; Bacharelado em Tecnologia da Informação; Bacharelado
+em Tecnologia da Informação – Ênfase em Análise de Dados; Ciência(s) da(de)
+Computação; Computação; Computação (LP); Computação Científica; Engenharia com
+Habilitação em Engenharia da Computação; Engenharia da(de) Computação;
+Engenharia de Sistemas; Engenharia de Software; Física – Opção Informática; Física
+Computacional; Informática; Informática (LP); Informática – Ênfase em Banco de
+Dados; Informática – Ênfase em Redes de Computadores; Informática – Sistemas de
+Informação; Matemática Aplicada à Informática; Matemática Aplicada às Ciências da
+Computação; Matemática Aplicada e Computação Científica; Matemática Aplicada e
+Computacional; Matemática com Ênfase em Ciência da Computação (LP); Matemática
+com Informática; Matemática Computacional; Processamento de Dados; Programação
+de Sistemas; Sistemas de Informação; Sistemas e Tecnologia da Informação; Sistemas e
+Tecnologia da Informação (LP); Sistemas Informatizados – Internet e Redes;
+Tecnologia da Informação; Tecnologia da Informação (LP); Tecnologia da(de)
+Informação e Comunicação; Tecnologia de Computação; Tecnologia em Administração
+de Redes de Computadores; Tecnologia em Análise de Sistemas; Tecnologia em
+Análise de Sistemas e Tecnologia(s) da Informação; Tecnologia em Análise de Sistemas
+Web; Tecnologia em Análise e Desenvolvimento de Sistemas; Tecnologia em Análise e
+Projeto de Sistemas; Tecnologia em Banco de Dados; Tecnologia em Big Data;
+Tecnologia em Desenvolvimento Back–End; Tecnologia em Desenvolvimento de Jogos
+Digitais; Tecnologia em Desenvolvimento de Sistemas ; Tecnologia em
+Desenvolvimento de Sistemas de Informação; Tecnologia em Desenvolvimento de
+Sistemas de Software; Tecnologia em Desenvolvimento de Sistemas para Internet;
+Tecnologia em Desenvolvimento de Sistemas para Web; Tecnologia em
+Desenvolvimento de Software; Tecnologia em Desenvolvimento de Software
+Multiplataforma; Tecnologia em Desenvolvimento de Software para Internet;
+Tecnologia em Desenvolvimento de Website; Tecnologia em Desenvolvimento para
+Web; Tecnologia em Desenvolvimento Web; Tecnologia em Desenvolvimento Web
+com Software Livre; Tecnologia em Gerenciamento de Redes; Tecnologia em
+Gerenciamento de Redes de Computadores; Tecnologia em Gestão da(de) Tecnologia
+da Informação; Tecnologia em Gestão de Redes de Computadores; Tecnologia em
+Gestão de Redes de Computadores e Internet; Tecnologia em Gestão de Sistemas de
+Informação; Tecnologia em Gestão de Sistemas Informatizados; Tecnologia em Gestão
+de Tecnologia de Desenvolvimento de Web Sites; Tecnologia em Informática;
+Tecnologia em Informática – Banco de Dados; Tecnologia em Informática – Ênfase em
+
+Banco de Dados; Tecnologia em Informática – Ênfase em Banco de Dados e Redes de
+Computadores; Tecnologia em Informática – Ênfase em Desenvolvimento de Sistemas
+Computacionais; Tecnologia em Informática – Ênfase em Gestão de Negócios;
+Tecnologia em Informática – Ênfase em Redes de Computadores; Tecnologia em
+Informática – Gestão Financeira; Tecnologia em Informática – Modalidade (de) Gestão
+Financeira; Tecnologia em Informática – Modalidade Gestão da Produção Industrial;
+Tecnologia em Informática – Redes de Computadores; Tecnologia em Informática –
+Sistemas de Informação; Tecnologia em Informática com Ênfase em Banco de Dados;
+Tecnologia em Informática com Ênfase em Banco de Dados e Redes de Computadores;
+Tecnologia em Informática com Ênfase em Redes de Computadores; Tecnologia em
+Informática e Aplicações Web; Tecnologia em Informática e Negócios; Tecnologia em
+Informática para (a) Gestão de Negócios; Tecnologia em Informática para Negócios;
+Tecnologia em Internet e Redes de Computadores; Tecnologia em Jogos Digitais;
+Tecnologia em Processamento de Dados; Tecnologia em Processamento de Dados –
+Modalidade Técnicas Digitais; Tecnologia em Processamento de Dados e
+Desenvolvimento de Software; Tecnologia em Programação e Desenvolvimento de
+Sistemas; Tecnologia em Projeto(s) de Sistemas de Informações; Tecnologia em Redes
+de Computadores; Tecnologia em Redes Operacionais: Internet/ Intranet; Tecnologia
+em Segurança da Informação; Tecnologia em Segurança da Tecnologia da Informação;
+Tecnologia em Segurança de Computadores; Tecnologia em Segurança de Redes de
+Computadores; Tecnologia em Sistema de Software; Tecnologia em Sistema(s) de(da)
+Informação; Tecnologia em Sistema(s) para Internet; Tecnologia em Técnicas Digitais;
+Tecnologia em Telecomunicações; Tecnologia em Web; Tecnologia em Web Design;
+Tecnologia em Web Design e E–Commerce; Tecnologia em Web Design e Internet;
+Tecnologia em Web Site;
+
+ANEXO IV – AJUDAS TÉCNICAS E CONDIÇÕES ESPECÍFICAS
+(CANDIDATOS COM DEFICIÊNCIA)
+
+As seguintes condições específicas e ajudas técnicas poderão ser disponibilizadas aos
+candidatos com deficiência, na medida da sua necessidade:
+
+Ao candidato com deficiência visual:
+– Prova impressa em Braile*.
+– Prova impressa em caracteres ampliados, indicando o tamanho da fonte**.
+– Fiscal Ledor, com leitura fluente.
+– Utilização de computador com software de leitura de tela e ou ampliação de tela,
+devendo o candidato indicar um dentre os relacionados a seguir:
+a) Lente de aumento do Windows (ampliação);
+
+b) Narrador do Windows (leitor de tela).
+* Aos candidatos com deficiências visuais que solicitarem prova especial em Braile,
+serão oferecidas provas nesse sistema e suas respostas deverão ser transcritas também
+em Braile. Os referidos candidatos deverão levar, no dia de aplicação das
+provas, reglete e punção, podendo utilizar–se de soroban.
+** Aos candidatos com deficiência visual (amblíopes) que solicitarem prova especial
+ampliada, serão oferecidas prova nesse sistema. Para tanto, o candidato deverá indicar o
+tamanho da fonte de sua prova ampliada, entre 18, 24 e 28. Não havendo indicação, a
+prova será confeccionada em fonte 24.
+
+Ao candidato com deficiência auditiva:
+– Fiscal Intérprete de LIBRAS, nos termos da Lei nº 12.319, de 1º de setembro de
+2010.
+– Autorização para utilização de aparelho auricular, sujeito a inspeção e aprovação de
+seu uso, com a finalidade de garantir a lisura do certame.
+
+Ao candidato com deficiência física:
+– Mobiliário adaptado e espaços adequados para a realização da prova.
+– Designação de fiscal para auxiliar no manuseio da prova e transcrição das respostas.
+– Facilidade de acesso às salas de provas e às demais instalações relacionadas ao
+certame.
+
+O atendimento às ajudas técnicas ou condições específicas solicitadas pelo candidato
+ficará sujeito à análise da razoabilidade do pedido.
+
+ANEXO V – DOCUMENTAÇÃO PARA ADMISSÃO
+
+1. Currículo atualizado (simplificado).
+2. Declaração de Situação Funcional (modelo fornecido pela Unidade).
+3. Declaração de horário do outro órgão, quando for o caso de Acumulação de
+Cargo/Função, nos termos do inciso XVI do art. 37 da Constituição.
+
+4. Certidão de antecedentes criminais (emitida na Polícia federal).
+5. Declaração de Dependentes para fins de desconto do Imposto de Renda na Fonte
+(modelo fornecido pela Unidade).
+6. Declaração de Bens (modelo fornecido pela Unidade).
+7. Requerimento de Salário Família (modelo fornecido pela Unidade), e cópia da(s)
+Certidão(ões) de Nascimento.
+8. Cópia da Carteira de Vacinação dos filhos, quando for o caso.
+9. Cópia da Cédula de Identidade – RG.
+10. Cópia do Cadastro de Pessoa Física – CPF.
+11. Cópia do PIS/PASEP.
+12. Cópia da Certidão de Quitação Eleitoral com data atual informando que está em dia
+com as obrigações eleitorais.
+13. Cópia do Certificado Militar ou comprovante de estar em dia com as obrigações
+militares, para pessoas do sexo masculino com idade entre 18 anos e aqueles que
+completarão 46 anos dentro do ano em questão (a apresentação da documentação é
+obrigatória, sendo facultativo para pessoas do sexo feminino).
+14. Cópia da Certidão de Nascimento ou Casamento com as respectivas averbações,
+quando for o caso.
+15. Cópia autenticada (ou cópia simples acompanhada do respectivo original) dos
+documentos que comprovem os requisitos constantes do Edital de Abertura
+de Inscrições (Diploma, ou na falta deste, o Certificado de Conclusão, registro no
+respectivo conselho, especializações, comprovante de experiência).
+16. Cópia do comprovante do número da conta corrente do Banco do Brasil.
+17. Quando se tratar de Componente Curricular destinado a estágio supervisionado
+oferecido na habilitação profissional de Técnico em Enfermagem:
+17.1. Apresentar comprovante, dentro da validade, dos esquemas de vacinação
+obrigatórios, incluindo difteria, tétano, hepatite B, tríplice viral e demais vacinas
+estabelecidas pelos órgãos de vigilância sanitária e pelas Resoluções da Secretaria da
+Saúde vigentes, tais como Covid–19 e Influenza, nos termos da Norma
+Regulamentadora nº 32, da Portaria nº 3.214/1978 do MTE e da Resolução SS nº
+180/2021 e suas alterações.
+17.2. Comprovar possuir registro ativo no Conselho Regional
+de Enfermagem (COREN) compatível com a formação solicitada no requisito de
+titulação.
+
+18. Quando se tratar do Componente Curricular Educação Física (Base Nacional
+Comum Curricular):
+18.1. Apresentar comprovação de regular inscrição no Conselho Regional de Educação
+Física (CREF).
+19. Quando se tratar de Componente Curricular destinado a aulas práticas em Elétrica:
+19.1. Apresentar comprovante válido de conclusão do curso de NR–10 – Segurança
+em Instalações e Serviços em Eletricidade, conforme estabelecido na Norma
+Regulamentadora nº 10, aprovada pela Portaria MTE nº 3214/1978 e suas alterações.
+
+ANEXO VI – PROGRAMA DA PROVA ESCRITA
+
+1) PROGRAMA DA PROVA ESCRITA
+
+1.
+
+Conteúdo do Componente Curricular do concurso
+
+CONCEITOS ESPECÍFICOS DO COMPONENTE CURRICULAR PARA O
+EMPREGO PÚBLICO PERMANENTE DE PROFESSOR DE ENSINO MÉDIO
+E TÉCNICO:
+Introdução à Web e seus padrões • Visão geral das tecnologias; • HTTP, navegadores e
+servidores web; • URLs, domínios e DNS; • IDEs e ferramentas de desenvolvedor.
+HTML • Corpo da página, cabeçalho e metadados; • DOM e ferramentas do
+desenvolvedor; • Elementos de texto; • Imagens, áudio e vídeo; • Hiperlinks; •
+Estruturação semântica do documento; • Incorporação de conteúdos (mapas, vídeos,
+entre outros); • Tabelas; • Formulários; • Acessibilidade e WAI–ARIA.
+CSS • CSS inline, interno e externo; • Seletores (tipo, classe, id, atributos,
+pseudoclasses, pseudo–elementos, combinadores); • Valores e unidades; • Cascata e
+herança; • Variáveis (custom properties); • Texto, cores e fundos; Box–model; • Fluxo
+normal, dimensionamento, overflow e posicionamento; • Flexbox e Grid; •
+Responsividade (media queries, imagens e textos responsivos, entre outros); • Efeitos
+avançados (sombra, mesclagem, filtros, transformações, transições, animações, entre
+outros); • Estilização de formulários.
+JavaScript • JavaScript no navegador em páginas web; • Variáveis, tipos de dados e
+conversões; • Condicionais e laços; • Funções, arranjos e objetos; • Manipulação do
+DOM; • Assincronia, Fetch API e JSON; • Web Storage API; • Módulos.
+
+Práticas do desenvolvimento web • Gerenciamento de pacotes (npm, yarn); •
+Ferramentas de build (Vite, esbuild, Webpack entre outros); • Implantação e
+hospedagem de conteúdo estático.
+
+1.2) Lei de Acesso à Informação:
+– Lei Federal nº 12.527/2011 (Lei de Acesso à Informação)
+– Decreto nº 68.155/2023 (regulamenta a LAI no âmbito do estado de São Paulo)
+
+1.3) Noções de Administração Pública
+NOÇÕES DE ADMINISTRAÇÃO PÚBLICA:
+Lei nº 10.177/1998 – Regula o processo administrativo no âmbito da Administração
+Pública Estadual;
+Deliberação Ceeteps nº 11/2015 – Institui o Regulamento Disciplinar dos Empregados
+Públicos do Ceeteps;
+Deliberação Ceeteps nº 87/2022 – Regimento Comum das Escolas Técnicas Estaduais
+(Etecs) do Centro Paula Souza – Ceeteps.
+
+1.4) Noções básicas de informática:
+– Windows, Word, Excel, Power Point e Internet.
+
+LEGISLAÇÃO SOBRE EDUCAÇÃO:
+Resolução CNE/CP nº 1/2021 – Diretrizes Curriculares Nacionais Gerais para a
+Educação Profissional e Tecnológica;
+Resolução CNE/CEB nº 03/2018 – Diretrizes Curriculares Nacionais para o Ensino
+Médio;
+
+Parecer CNE/CEB 39/2004 – Aplicação do Decreto 5.154/2004 na Educação
+Profissional Técnica de nível médio e no Ensino Médio.
+
+ANEXO VII – CRITÉRIOS E PONTUAÇÕES
+
+1) PROVA ESCRITA
+
+A Prova Escrita terá caráter eliminatório e classificatório.
+A Prova Escrita será composta por 25 (vinte e cinco) questões de múltipla escolha,
+numeradas sequencialmente, contendo 4 (quatro) alternativas cada e
+apenas uma resposta correta.
+A prova versará sobre o conteúdo programático constante do ANEXO VI deste edital.
+A Prova Escrita obedecerá a uma pontuação de 0 (zero) a 100 (cem) pontos. Todas as
+questões serão pontuadas com o mesmo valor, ou seja, 4 pontos cada.
+O limite de nota poderá ser ultrapassado ao candidato preto, pardo ou indígena que
+optou pela pontuação diferenciada.
+A Prova Escrita tem por objetivo selecionar os 5 (cinco) primeiros candidatos, em
+ordem decrescente de nota, para participarem das demais fases (Prova de Métodos
+Pedagógicos e Prova de Títulos).
+Havendo empate de notas entre o 5º (quinto) candidato e os candidatos subsequentes,
+todos os candidatos que se encontrarem nessa condição serão selecionados para
+participarem da Prova de Métodos Pedagógicos.
+Para mais informações sobre a Prova Escrita, verifique o CAPÍTULO XI.3 – DA
+PROVA ESCRITA e o CAPÍTULO XII.1 – DO JULGAMENTO DA PROVA
+ESCRITA.
+
+2) PROVA DE MÉTODOS PEDAGÓGICOS
+
+A Prova de Métodos Pedagógicos terá caráter eliminatório e classificatório.
+
+A avaliação da Prova de Métodos Pedagógicos obedecerá a uma escala de 0 (zero) a
+100 (cem) pontos.
+O candidato que não entregar as 3 (três) vias do plano de aula (referente ao tema
+sorteado) aos membros da Banca Examinadora ou as entregar em número insuficiente –
+ou seja, somente 1 (uma) ou 2 (duas) vias – não fará a apresentação e obterá nota 0
+(zero), sendo considerado não aprovado e, por consequência, eliminado do concurso
+público.
+Os critérios para avaliação da Prova de Métodos Pedagógicos serão pontuados na
+seguinte conformidade:
+
+CRITÉRIOS:
+a) CONTEÚDO
+– Domínio;
+– Ordem de exposição (gradação e sequência);
+– Objetividade no tratamento do assunto (clareza, concisão, síntese);
+– Adequação ao tema (centro da aula);
+– Emprego correto de conceitos, relações etc.
+a.1) Pontuação: zero a 40 (quarenta) pontos.
+a.2) Referência: zero a 9 = fraco; 10 a 19 = regular; 20 a 30 = bom; 31 a 40 = ótimo.
+
+b) PLANEJAMENTO
+– Introdução ao assunto;
+– Verbalização dos objetivos da aula;
+– Preparação da aula (apresentação do plano de aula, material didático selecionado pelo
+candidato e outros indícios concretos).
+b.1) Pontuação: zero a 20 (vinte) pontos.
+b.2) Referência: zero a 5 = fraco; 6 a 9 = regular; 10 a 15 = bom; 16 a 20 = ótimo.
+
+c) PROCEDIMENTO DIDÁTICO
+
+– Uso adequado de recursos didáticos disponíveis (audiovisual, material impresso,
+quadro negro etc.);
+– Adequação do conteúdo ao nível do tema proposto e ao nível dos alunos;
+– Interação aluno–professor (motivação, diálogos etc.);
+– Preocupação com o tempo;
+– Indicação de instrumentos de avaliação.
+c.1) Pontuação: zero a 20 (vinte pontos).
+c.2) Referência: zero a 5 = fraco; 6 a 9 = regular; 10 a 15 = bom; 16 a 20 = ótimo.
+
+d) EXPRESSÃO
+– Contato visual e apresentação pessoal do candidato;
+– Expressões faciais e corporais (incluindo gesticulação);
+– Postura e movimentação no espaço da sala;
+– Emissão de voz (timbre de voz, ritmo, dicção).
+d.1) Pontuação: zero a 10 (dez) pontos.
+d.2) Referência: zero a 2 = fraco; 3 a 4 = regular; 5 a 8 = bom; 9 a 10 = ótimo.
+
+e) LINGUAGEM E COMUNICAÇÃO
+– Naturalidade;
+– Fluência verbal;
+– Correção gramatical;
+– Clareza;
+– Legibilidade da escrita;
+– Exemplificação.
+e.1) Pontuação: zero a 10 (dez) pontos.
+e.2) Referência: zero a 2 = fraco; 3 a 4 = regular; 5 a 8 = bom; 9 a 10 = ótimo.
+
+Será excluído deste concurso público o candidato que recusar a ministrar a aula perante
+a Banca Examinadora.
+Para mais informações sobre a Prova de Métodos Pedagógicos, verifique o CAPÍTULO
+XI.4 – DA PROVA DE MÉTODOS PEDAGÓGICOS e o CAPÍTULO XII.2 – DO
+JULGAMENTO DA PROVA DE MÉTODOS PEDAGOGICOS.
+
+3) PROVA DE TÍTULOS
+
+A Prova de Títulos terá caráter exclusivamente classificatório.
+Serão avaliados somente os títulos do candidato aprovado na Prova de Métodos
+Pedagógicos.
+A Prova de Títulos obedecerá a uma escala de pontuação de 0 (zero) a 30 (trinta)
+pontos.
+O limite de nota poderá ser ultrapassado ao candidato preto, pardo ou indígena que
+optou pela pontuação diferenciada.
+Para a Prova de Títulos, os candidatos deverão entregar a documentação
+comprobatória.
+O candidato que não apresentar a cópia do(s) título(s) será classificado apenas com os
+pontos obtidos na Prova Escrita e na Prova de Métodos Pedagógicos, desde que
+satisfaça a condição de aprovado.
+
+CRITÉRIOS
+Serão pontuados na Prova de Títulos:
+– Especialização (lato sensu): 5 (cinco) pontos;
+– Mestrado: 10 (dez) pontos; e
+– Doutorado: 15 (quinze) pontos.
+Cada título/curso será considerado uma única vez.
+
+TÍTULOS
+
+Serão considerados para a Prova de Títulos os cursos de Especialização (lato sensu),
+Mestrado e Doutorado concluídos até o término do período de inscrição, desde que:
+a) Vinculado ao componente curricular em concurso ou na área de educação (quando
+integrar a base nacional comum do ensino médio); ou
+b) Relacionado a área do componente curricular em concurso ou na área de educação
+(quando integrar a parte diversificada do ensino médio ou a educação profissional
+técnica de nível médio).
+
+COMPROVAÇÃO DOCUMENTAL
+Comprovar–se–á o título por intermédio de cópia impressa de um dos documentos a
+seguir mencionados, desde que expedido por instituição reconhecida:
+a) Cursos de pós–graduação (Doutorado ou Mestrado): diploma registrado ou
+certidão/certificado de conclusão;
+b) Cursos de Especialização (lato sensu, realizado em conformidade com as normas do
+Conselho Nacional de Educação): certidão/certificado de conclusão.
+Não será considerado para a Prova de Títulos o(s) curso(s) incluído(s) no requisito
+para inscrição no Componente Curricular oferecido neste edital (descrito no ANEXO
+III).
+Os certificados, certidões ou declarações de conclusão deverão ser expedidos
+por instituição oficial de ensino, em papel timbrado, e conter o carimbo e a identificação
+da instituição e do responsável pela expedição do documento.
+Caberá ao candidato comprovar que os diplomas, certificados e títulos sejam
+provenientes de cursos reconhecidos, credenciados ou recomentados.
+Não serão aceitos protocolos dos documentos comprobatórios dos títulos elencados
+acima.
+Todo documento que esteja em língua estrangeira deverá conter a respectiva tradução
+para o português, sendo a tradução de responsabilidade do candidato.
+Os diplomas de Mestrado e Doutorado expedidos por instituições estrangeiras deverão
+estar reconhecidos por universidades públicas, nos termos do § 3º do artigo 48 da Lei de
+Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20/12/1996, e suas
+alterações); caso contrário, não serão considerados para efeito de pontuação.
+Cada documento será considerado/pontuado uma única vez.
+Para mais informações sobre a Prova de Títulos, verifique o CAPÍTULO XI.5 – DA
+PROVA DE TÍTULOS e o CAPÍTULO XII.3 – DO JULGAMENTO DA PROVA DE
+TÍTULOS.
+
+
